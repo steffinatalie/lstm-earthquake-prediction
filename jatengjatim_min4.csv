@@ -1,0 +1,585 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-12-22T03:27:21.031Z,-9.5505,112.5698,35,4.1,mb,,120,1.896,0.94,us,us6000d5hb,2021-02-27T23:24:38.040Z,"149 km S of Dampit, Indonesia",earthquake,5.6,1.9,0.175,9,reviewed,us,us
+2020-12-20T15:53:57.395Z,-9.2936,112.1503,35,4.3,mb,,53,2.114,0.9,us,us6000d282,2021-02-27T23:24:05.040Z,"130 km SSW of Sumberpucung, Indonesia",earthquake,5.3,2,0.142,14,reviewed,us,us
+2020-12-20T15:16:45.796Z,-9.2506,110.851,35,4.2,mb,,148,1.368,0.58,us,us6000d27v,2021-02-27T23:24:03.040Z,"153 km SSE of Pundong, Indonesia",earthquake,8.9,1.9,0.186,8,reviewed,us,us
+2020-12-16T04:15:00.793Z,-9.3194,113.9682,63.18,4.1,mb,,66,0.863,0.64,us,us7000cs7a,2021-02-27T23:25:50.040Z,"104 km S of Gambiran Satu, Indonesia",earthquake,7.4,5.3,0.146,13,reviewed,us,us
+2020-12-14T15:39:29.556Z,-10.8905,113.2626,10,4.5,mb,,105,2.559,0.48,us,us7000cs42,2021-02-20T16:12:41.040Z,"288 km S of Kencong, Indonesia",earthquake,9,1.9,0.164,11,reviewed,us,us
+2020-12-03T17:55:07.498Z,-9.2055,113.2433,61.61,4.3,mb,,96,1.157,0.63,us,us7000cmm3,2021-02-12T22:38:40.040Z,"102 km S of Kencong, Indonesia",earthquake,6.9,5.9,0.111,23,reviewed,us,us
+2020-10-18T07:03:48.832Z,-9.3339,113.9902,56.65,4.4,mb,,107,0.873,0.54,us,us6000cbgj,2020-12-29T23:07:34.040Z,"105 km S of Gambiran Satu, Indonesia",earthquake,7.5,4.7,0.108,25,reviewed,us,us
+2020-10-06T14:25:59.828Z,-9.537,112.877,35,4,mb,,121,1.646,0.73,us,us6000c737,2020-12-12T22:28:50.040Z,"147 km S of Dampit, Indonesia",earthquake,5.6,1.9,0.15,12,reviewed,us,us
+2020-10-06T14:09:58.869Z,-9.5012,112.6795,35,4.2,mb,,128,1.779,0.76,us,us6000c735,2020-12-12T22:28:50.040Z,"142 km S of Dampit, Indonesia",earthquake,8.3,2,0.136,15,reviewed,us,us
+2020-10-06T13:52:31.725Z,-9.5429,112.8673,35,4.8,mww,,110,1.657,1.14,us,us6000c63n,2020-12-12T22:28:42.040Z,"147 km S of Dampit, Indonesia",earthquake,7.4,1.9,0.083,14,reviewed,us,us
+2020-09-04T02:10:09.141Z,-9.5629,111.9763,35,4.2,mb,,125,2.18,0.91,us,us7000bkx6,2020-11-17T19:44:32.040Z,"160 km S of Boyolangu, Indonesia",earthquake,8,2,0.199,7,reviewed,us,us
+2020-08-09T22:12:21.370Z,-9.3254,110.2462,10,4.6,mb,,62,1.43,0.44,us,us6000bblx,2020-10-21T22:04:02.040Z,"152 km S of Bambanglipuro, Indonesia",earthquake,7,1.8,0.098,31,reviewed,us,us
+2020-08-03T13:10:48.854Z,-9.1869,113.9404,83.22,4.1,mb,,150,0.742,1.23,us,us6000balm,2020-10-10T17:11:20.040Z,"90 km SSW of Gambiran Satu, Indonesia",earthquake,14.1,17.9,0.213,6,reviewed,us,us
+2020-06-26T04:44:11.903Z,-9.4266,113.683,61.63,4.2,mb,,153,1.057,0.74,us,us7000agqa,2020-09-05T17:35:40.040Z,"125 km SSW of Gambiran Satu, Indonesia",earthquake,8,9.4,0.215,6,reviewed,us,us
+2020-06-26T04:39:17.114Z,-9.4097,113.6355,56.51,4.3,mb,,114,1.064,0.96,us,us7000abvy,2020-09-05T17:35:22.040Z,"125 km SSW of Gambiran Satu, Indonesia",earthquake,7.5,7.7,0.153,12,reviewed,us,us
+2020-06-18T13:57:09.644Z,-9.1656,111.2848,58.25,4.3,mb,,115,1.455,0.65,us,us7000aaxj,2020-08-30T00:01:13.040Z,"129 km SSW of Trenggalek, Indonesia",earthquake,7.2,3.8,0.16,11,reviewed,us,us
+2020-04-07T08:44:10.660Z,-9.3944,112.3674,59.11,4.3,mb,,74,1.988,1.06,us,us70008qg9,2020-06-21T00:55:15.040Z,"137 km S of Sumberpucung, Indonesia",earthquake,8,6.9,0.107,25,reviewed,us,us
+2020-04-07T08:03:00.023Z,-9.3569,112.3524,52.07,4.9,mb,,52,1.984,1.27,us,us70008qfi,2020-06-21T00:55:15.040Z,"133 km S of Sumberpucung, Indonesia",earthquake,7.9,6.7,0.078,51,reviewed,us,us
+2020-03-30T14:48:41.374Z,-9.648,112.9979,49.18,4.5,mb,,117,1.633,0.81,us,us70008mnl,2020-06-13T18:44:37.040Z,"156 km SSW of Kencong, Indonesia",earthquake,8.7,8.5,0.1,29,reviewed,us,us
+2020-03-28T07:11:40.780Z,-9.4427,113.0043,60.3,4.4,mb,,162,1.489,0.57,us,us70008km3,2020-06-13T18:44:37.040Z,"134 km SSW of Kencong, Indonesia",earthquake,9.5,5.9,0.134,16,reviewed,us,us
+2020-03-26T20:34:17.012Z,-9.2645,113.595,58.27,4.5,mb,,70,0.962,0.57,us,us70008gqz,2020-06-13T18:44:37.040Z,"111 km SSE of Kencong, Indonesia",earthquake,7,6.1,0.111,24,reviewed,us,us
+2020-03-23T06:24:07.572Z,-9.9871,113.3233,35,4.3,mb,,141,1.715,0.85,us,us70008hei,2020-06-06T20:54:09.040Z,"188 km S of Kencong, Indonesia",earthquake,9.2,2,0.178,9,reviewed,us,us
+2019-12-02T03:55:42.767Z,-9.7004,112.8968,35,4.1,mb,,132,1.741,0.77,us,us60006q85,2020-02-19T18:58:00.040Z,"165 km SSW of Kencong, Indonesia",earthquake,8.8,2,0.158,11,reviewed,us,us
+2019-11-26T17:24:36.868Z,-10.2438,113.7797,10,4.6,mb,,100,1.8,0.84,us,us70006das,2020-02-19T18:58:08.040Z,"208 km S of Gambiran Satu, Indonesia",earthquake,5,1.9,0.092,38,reviewed,us,us
+2019-10-27T07:42:14.130Z,-9.065,111.4035,67.64,4.5,mb,,49,1.438,0.77,us,us600063ie,2020-01-11T21:26:47.040Z,"114 km SSW of Trenggalek, Indonesia",earthquake,5.8,6.8,0.08,46,reviewed,us,us
+2019-10-23T11:42:53.240Z,-9.4164,113.0472,49.19,4.1,mb,,121,1.44,0.6,us,us700061yj,2020-01-11T21:26:27.040Z,"130 km SSW of Kencong, Indonesia",earthquake,7.9,8.4,0.119,19,reviewed,us,us
+2019-10-20T06:57:42.677Z,-9.7353,112.7839,35,4.5,mb,,124,1.845,0.54,us,us70005w85,2020-01-03T16:09:38.040Z,"168 km S of Dampit, Indonesia",earthquake,8,2,0.127,18,reviewed,us,us
+2019-09-10T17:12:33.519Z,-9.1446,113.4456,71.59,4.7,mb,,52,0.967,0.78,us,us70005e98,2019-12-05T18:30:54.040Z,"95 km S of Kencong, Indonesia",earthquake,7,6.5,0.086,45,reviewed,us,us
+2019-08-13T10:21:32.295Z,-9.6244,113.9544,49.18,4.9,mb,,79,1.163,0.54,us,us600054fv,2019-11-02T15:26:03.040Z,"137 km S of Gambiran Satu, Indonesia",earthquake,8.3,7.5,0.094,35,reviewed,us,us
+2019-08-12T08:31:23.780Z,-9.6245,113.8996,35,4.9,mb,,100,1.173,0.76,us,us600053xz,2019-10-29T20:34:03.040Z,"138 km SSW of Gambiran Satu, Indonesia",earthquake,9.9,2,0.092,37,reviewed,us,us
+2019-08-11T22:51:33.111Z,-9.6418,113.9469,35,5,mb,,50,1.181,0.96,us,us600053tn,2019-10-29T20:34:01.040Z,"139 km S of Gambiran Satu, Indonesia",earthquake,5.5,1.9,0.079,52,reviewed,us,us
+2019-08-05T19:42:44.935Z,-10.776,113.8783,10,4.2,mb,,162,2.307,0.77,us,us600054mb,2019-10-19T21:42:22.040Z,"260 km SSW of Jimbaran, Indonesia",earthquake,10.2,2,0.167,10,reviewed,us,us
+2019-07-06T05:30:36.355Z,-9.4179,113.996,51.83,4.6,mb,,76,0.954,0.64,us,us70004ljg,2019-09-26T14:31:06.040Z,"114 km S of Gambiran Satu, Indonesia",earthquake,7.4,2.4,0.119,21,reviewed,us,us
+2019-06-23T22:26:59.928Z,-10.4999,113.6549,10,4.6,mb,,57,2.075,0.86,us,us700048r4,2019-09-11T15:19:38.040Z,"239 km SSW of Gambiran Satu, Indonesia",earthquake,8.5,1.9,0.126,19,reviewed,us,us
+2019-05-24T10:54:19.464Z,-10.5791,113.5051,10,4,mb,,160,2.19,0.6,us,us70003trl,2019-08-13T14:30:50.040Z,"251 km SSW of Gambiran Satu, Indonesia",earthquake,7,2,0.231,5,reviewed,us,us
+2019-05-07T20:04:07.639Z,-9.3847,112.0667,49.76,4.2,mb,,61,2.114,1.18,us,us70003m1z,2019-08-01T17:15:19.040Z,"141 km S of Boyolangu, Indonesia",earthquake,6.2,6.8,0.141,14,reviewed,us,us
+2019-05-07T06:32:03.713Z,-10.7202,113.6852,10,4.2,mb,,138,2.282,1.4,us,us70003m1h,2019-08-01T17:15:19.040Z,"262 km S of Gambiran Satu, Indonesia",earthquake,4.5,2,0.176,9,reviewed,us,us
+2019-05-04T22:07:36.409Z,-9.6549,112.8934,35,4.2,mb,,88,1.712,0.93,us,us70003kwp,2019-07-25T18:54:18.040Z,"160 km SSW of Kencong, Indonesia",earthquake,7.5,2,0.158,11,reviewed,us,us
+2019-03-10T09:21:46.551Z,-9.2941,112.6658,65.17,5.1,mb,,148,1.681,0.71,us,us1000jd6f,2019-05-24T21:21:26.040Z,"120 km S of Dampit, Indonesia",earthquake,4.5,7.6,0.076,56,reviewed,us,us
+2019-02-18T23:52:56.080Z,-9.7971,112.7722,35,4.2,mb,,90,1.896,1.35,us,us1000j8u6,2019-05-01T22:00:32.040Z,"175 km S of Dampit, Indonesia",earthquake,4.7,2,0.167,10,reviewed,us,us
+2019-02-18T22:21:39.590Z,-9.65,112.827,35,4.1,mb,,112,1.757,1.02,us,us1000j8u5,2019-05-01T22:00:32.040Z,"159 km S of Dampit, Indonesia",earthquake,8.2,1.9,0.135,15,reviewed,us,us
+2019-02-18T19:30:22.900Z,-9.5093,112.8605,23,5.7,mww,,33,1.641,0.95,us,us2000jjm5,2019-05-01T22:01:03.040Z,"144 km S of Dampit, Indonesia",earthquake,6.9,1.8,0.058,29,reviewed,us,us
+2019-01-17T02:40:38.900Z,-10.6792,113.417,10,4.2,mb,,141,2.311,0.83,us,us2000jbvd,2019-04-05T21:41:03.040Z,"265 km S of Kencong, Indonesia",earthquake,8,2,0.186,8,reviewed,us,us
+2018-12-18T06:21:17.070Z,-9.0312,111.1398,68.25,4.3,mb,,108,1.268,1.14,us,us2000j07w,2019-02-23T20:22:47.040Z,"122 km SSW of Trenggalek, Indonesia",earthquake,8.8,9.3,0.129,17,reviewed,us,us
+2018-12-09T10:33:22.930Z,-9.6486,112.8875,35,4.6,mb,,110,1.712,1.08,us,us1000i5al,2019-02-16T19:52:33.040Z,"159 km S of Dampit, Indonesia",earthquake,8,2,0.117,22,reviewed,us,us
+2018-12-08T21:55:29.870Z,-9.8157,111.3877,10,4.3,mb,,140,2.075,0.6,us,us2000itbx,2019-02-16T19:52:32.040Z,"195 km S of Trenggalek, Indonesia",earthquake,10.5,1.5,0.201,7,reviewed,us,us
+2018-12-04T02:14:59.300Z,-9.7335,111.7472,35,4.4,mb,,93,2.176,0.58,us,us1000i4a5,2019-02-16T19:52:17.040Z,"179 km S of Boyolangu, Indonesia",earthquake,7.9,2,0.13,17,reviewed,us,us
+2018-12-04T01:28:26.630Z,-9.6012,111.8807,35,4.3,mb,,81,2.148,0.79,us,us1000i4a4,2019-02-16T19:52:17.040Z,"164 km S of Boyolangu, Indonesia",earthquake,4.2,2,0.148,13,reviewed,us,us
+2018-12-03T19:18:00.710Z,-9.771,111.8638,10,4.7,mb,,137,2.272,0.77,us,us1000i1b5,2019-02-16T19:52:16.040Z,"182 km S of Boyolangu, Indonesia",earthquake,5.7,1.8,0.087,40,reviewed,us,us
+2018-11-25T16:32:15.180Z,-9.0478,110.0981,43.56,4.3,mb,,88,1.203,0.8,us,us1000hybs,2019-02-02T20:02:32.040Z,"123 km S of Bambanglipuro, Indonesia",earthquake,3.7,10.5,0.169,10,reviewed,us,us
+2018-10-28T15:16:18.140Z,-9.5866,112.8771,35,4.3,mb,,90,1.678,0.55,us,us2000i5zf,2019-01-10T17:18:44.040Z,"152 km S of Dampit, Indonesia",earthquake,9.3,2,0.201,8,reviewed,us,us
+2018-10-28T02:33:21.280Z,-9.7618,112.9425,48.88,4.3,mb,,89,1.753,0.82,us,us2000i5yv,2019-01-10T17:18:44.040Z,"170 km SSW of Kencong, Indonesia",earthquake,5,10.9,0.188,8,reviewed,us,us
+2018-09-30T22:46:05.300Z,-9.2566,111.9124,60.61,4.2,mb,,88,1.916,0.86,us,us1000h7ke,2018-12-01T16:44:49.040Z,"125 km S of Boyolangu, Indonesia",earthquake,5.9,10.2,0.152,12,reviewed,us,us
+2018-08-28T18:36:32.910Z,-9.0219,110.1451,40,5.2,mww,,34,1.164,1.36,us,us1000gj2a,2018-11-07T18:37:03.040Z,"119 km S of Bambanglipuro, Indonesia",earthquake,5.9,1.9,0.071,19,reviewed,us,us
+2018-07-28T21:46:53.350Z,-9.4497,112.9341,51.63,4.4,mb,,100,1.547,0.53,us,us2000ggbb,2018-10-09T16:43:31.040Z,"137 km SSW of Kencong, Indonesia",earthquake,8.1,8,0.1,29,reviewed,us,us
+2018-07-28T00:15:49.920Z,-9.8227,112.8805,35,4.5,mb,,83,1.839,1.23,us,us1000g1yb,2018-10-09T16:43:31.040Z,"178 km SSW of Kencong, Indonesia",earthquake,6.8,2,0.089,37,reviewed,us,us
+2018-07-28T00:14:03.850Z,-9.1026,112.8674,56.64,4.8,mb,,143,1.416,0.94,us,us1000g1y3,2018-10-09T16:43:31.040Z,"99 km S of Dampit, Indonesia",earthquake,8.6,5.6,0.076,53,reviewed,us,us
+2018-07-28T00:12:20.880Z,-9.5711,112.8499,50.16,4.9,mb,,66,1.688,0.96,us,us2000gfpx,2018-10-09T16:43:31.040Z,"150 km S of Dampit, Indonesia",earthquake,7.4,7.6,0.074,58,reviewed,us,us
+2018-07-23T14:01:42.960Z,-9.4169,113.0398,36.45,4.3,mb,,132,1.446,0.36,us,us2000gf3i,2018-10-09T16:43:31.040Z,"130 km SSW of Kencong, Indonesia",earthquake,11.3,11.4,0.307,4,reviewed,us,us
+2018-07-23T13:57:29.800Z,-9.6104,112.8893,35,4.8,mb,,66,1.685,1.11,us,us2000gbt6,2018-10-09T16:43:31.040Z,"155 km S of Dampit, Indonesia",earthquake,7.9,2,0.093,36,reviewed,us,us
+2018-07-22T09:35:26.670Z,-10.8705,113.3061,10,4.2,mb,,76,2.526,1.22,us,us2000geki,2018-10-04T14:15:34.040Z,"286 km S of Kencong, Indonesia",earthquake,5,1.9,0.136,15,reviewed,us,us
+2018-07-21T04:35:07.580Z,-9.6284,112.8297,35,4.2,mb,,111,1.74,0.77,us,us2000ge90,2018-10-04T14:15:34.040Z,"156 km S of Dampit, Indonesia",earthquake,6.9,2,0.176,9,reviewed,us,us
+2018-07-20T00:33:19.660Z,-9.714,112.8791,35,4.3,mb,,156,1.763,1.13,us,us2000gdks,2018-10-04T14:15:34.040Z,"166 km S of Dampit, Indonesia",earthquake,8.5,2,0.169,10,reviewed,us,us
+2018-07-19T20:25:56.390Z,-9.7356,112.8056,35,4.3,mb,,154,1.83,0.91,us,us2000gcur,2018-10-04T14:15:34.040Z,"168 km S of Dampit, Indonesia",earthquake,8.5,2,0.177,9,reviewed,us,us
+2018-07-19T19:49:52.490Z,-9.8385,112.909,35,4.6,mb,,113,1.831,0.86,us,us2000g95a,2018-10-04T14:15:34.040Z,"179 km SSW of Kencong, Indonesia",earthquake,8.1,2,0.082,44,reviewed,us,us
+2018-07-19T17:43:54.400Z,-9.4947,112.8012,39.89,4.6,mb,,65,1.678,0.91,us,us2000g90q,2018-10-04T14:15:34.040Z,"142 km S of Dampit, Indonesia",earthquake,6.8,7.9,0.091,38,reviewed,us,us
+2018-07-19T12:49:37.890Z,-9.7815,112.9225,35,4.8,mb,,157,1.781,0.94,us,us2000g8rh,2018-10-04T14:15:34.040Z,"172 km SSW of Kencong, Indonesia",earthquake,8.2,2,0.09,38,reviewed,us,us
+2018-07-19T12:23:35.660Z,-9.5608,112.8231,31.53,5.4,mww,,61,1.702,1.05,us,us2000g8qi,2018-10-04T14:15:34.040Z,"149 km S of Dampit, Indonesia",earthquake,6.8,3.8,0.083,14,reviewed,us,us
+2018-07-19T12:17:09.140Z,-9.4199,112.9044,35,4.4,mb,,130,1.552,0.4,us,us2000g8qn,2018-10-04T14:15:34.040Z,"134 km S of Dampit, Indonesia",earthquake,5.3,2,0.131,19,reviewed,us,us
+2018-07-19T12:03:44.880Z,-9.5392,112.8798,35,4.4,mb,,108,1.645,1.3,us,us2000gcu9,2018-10-04T14:15:34.040Z,"south of Java, Indonesia",earthquake,7.6,2,0.117,21,reviewed,us,us
+2018-07-19T06:37:59.350Z,-9.0299,111.1364,61.46,4.1,mb,,108,1.265,0.86,us,us2000gcu4,2018-10-04T14:15:34.040Z,"122 km SSW of Trenggalek, Indonesia",earthquake,8.4,9.4,0.127,17,reviewed,us,us
+2018-06-19T08:39:40.120Z,-9.2157,112.9014,25.17,4.4,mb,,82,1.441,1.41,us,us1000eyqn,2018-09-19T15:15:54.040Z,"112 km S of Dampit, Indonesia",earthquake,7.8,6.6,0.148,13,reviewed,us,us
+2018-05-22T20:12:38.300Z,-9.4323,110.5405,57.01,4.5,mb,,92,1.51,1.06,us,us1000ec11,2018-08-21T21:23:51.040Z,"165 km S of Pundong, Indonesia",earthquake,6.2,8.8,0.221,7,reviewed,us,us
+2018-05-22T19:38:25.550Z,-9.1607,110.6118,43.89,4.5,mb,,58,1.243,1.18,us,us1000ec0z,2018-08-21T21:23:51.040Z,"136 km SSE of Pundong, Indonesia",earthquake,6.5,7.8,0.132,17,reviewed,us,us
+2018-05-16T15:30:17.460Z,-10.8786,110.404,10,4.7,mb,,91,2.949,1.29,us,us1000e6f6,2018-08-15T19:46:53.040Z,"south of Java, Indonesia",earthquake,7.9,1.8,0.078,50,reviewed,us,us
+2018-05-13T18:36:46.850Z,-10.7052,112.1271,35,4.3,mb,,133,2.986,1.43,us,us1000e79d,2018-08-08T15:22:21.040Z,"284 km SSW of Dampit, Indonesia",earthquake,8.6,2,0.153,12,reviewed,us,us
+2018-05-11T07:54:25.410Z,-9.4004,112.424,48.25,4.4,mb,,80,1.941,1.41,us,us1000e6k5,2018-08-08T15:22:10.040Z,"136 km SSW of Dampit, Indonesia",earthquake,6.9,8.1,0.178,9,reviewed,us,us
+2018-04-26T03:04:02.100Z,-9.5555,112.5779,35,4.4,mb,,88,1.892,0.92,us,us1000dshx,2018-07-25T21:36:51.040Z,"149 km S of Dampit, Indonesia",earthquake,4.5,2,0.13,17,reviewed,us,us
+2018-04-01T10:50:33.280Z,-9.0727,111.3027,55.41,4.1,mb,,75,1.386,1.05,us,us2000dwyw,2018-06-22T21:32:19.040Z,"118 km SSW of Trenggalek, Indonesia",earthquake,9,8.2,0.166,10,reviewed,us,us
+2017-12-28T13:08:01.200Z,-9.7495,112.9113,47.54,4.6,mb,,65,1.765,1.07,us,us1000bx5n,2018-03-17T01:54:37.040Z,"169 km SSW of Kencong, Indonesia",earthquake,7.4,7.5,0.086,40,reviewed,us,us
+2017-12-23T21:22:38.220Z,-9.1504,112.4266,51.76,4.2,mb,,62,1.834,0.88,us,us1000c22l,2018-03-14T00:58:27.040Z,"109 km SSW of Dampit, Indonesia",earthquake,6.7,8,0.146,13,reviewed,us,us
+2017-12-21T18:08:25.780Z,-10.7883,113.6408,10,4.4,mb,,70,2.358,0.81,us,us1000c12y,2018-03-14T00:58:25.040Z,"270 km SSW of Gambiran Satu, Indonesia",earthquake,10.3,1.9,0.13,17,reviewed,us,us
+2017-11-30T18:43:57.630Z,-9.4154,112.9803,59.76,4.5,mb,,167,1.49,0.64,us,us1000bjht,2018-02-20T09:06:08.040Z,"132 km SSW of Kencong, Indonesia",earthquake,5.5,9,0.093,34,reviewed,us,us
+2017-11-21T17:40:47.450Z,-9.9031,112.938,35,4.7,mb,,114,1.861,0.86,us,us2000bsen,2018-02-14T02:01:09.040Z,"185 km SSW of Kencong, Indonesia",earthquake,7.3,2,0.094,34,reviewed,us,us
+2017-10-25T22:04:06.370Z,-9.7012,113.0276,42.27,4.4,mb,,67,1.652,0.97,us,us2000bfty,2018-01-17T21:50:33.040Z,"161 km SSW of Kencong, Indonesia",earthquake,8.1,8.8,0.138,15,reviewed,us,us
+2017-10-25T17:48:12.090Z,-9.65,112.903,35,4.2,mb,,83,1.701,0.84,us,us2000bfts,2018-01-17T21:50:33.040Z,"159 km SSW of Kencong, Indonesia",earthquake,6.8,2,0.115,21,reviewed,us,us
+2017-10-25T17:19:59.940Z,-9.4826,113.0083,54.13,4.9,mb,,74,1.512,0.69,us,us1000awsm,2018-01-17T21:50:33.040Z,"138 km SSW of Kencong, Indonesia",earthquake,8,6.3,0.066,73,reviewed,us,us
+2017-10-25T17:16:27.670Z,-9.7304,112.8701,35,4,mb,,89,1.78,0.62,us,us2000bftr,2018-01-17T21:50:33.040Z,"168 km S of Dampit, Indonesia",earthquake,4.7,2,0.212,6,reviewed,us,us
+2017-10-25T16:35:36.480Z,-9.6404,112.9337,35,5,mb,,59,1.673,0.96,us,us1000awru,2018-01-17T21:50:33.040Z,"157 km SSW of Kencong, Indonesia",earthquake,7.1,1.9,0.068,69,reviewed,us,us
+2017-10-23T18:35:57.920Z,-9.1847,113.19,47.2,4.2,mb,,102,1.186,0.49,us,us1000az64,2018-01-17T21:50:31.040Z,"101 km S of Kencong, Indonesia",earthquake,7.4,15.2,0.152,12,reviewed,us,us
+2017-10-14T14:09:49.540Z,-10.8545,112.3622,10,4.5,mb,,93,2.954,1.38,us,us1000aun1,2018-01-09T02:15:00.040Z,"295 km S of Dampit, Indonesia",earthquake,7.5,1.9,0.128,18,reviewed,us,us
+2017-10-14T14:03:30.060Z,-10.796,112.3139,10,4.6,mb,,75,2.937,1.18,us,us1000aun9,2018-01-09T02:15:00.040Z,"289 km S of Dampit, Indonesia",earthquake,7.6,1.9,0.141,15,reviewed,us,us
+2017-10-14T06:06:57.440Z,-10.8307,112.2848,10,4.3,mb,,74,2.981,1.27,us,us1000as4w,2018-01-09T02:15:00.040Z,"294 km S of Dampit, Indonesia",earthquake,7.2,1.9,0.16,11,reviewed,us,us
+2017-10-14T05:35:36.660Z,-10.8642,112.2993,10,4.7,mb,,76,2.999,0.78,us,us1000as11,2018-01-09T02:15:00.040Z,"297 km S of Dampit, Indonesia",earthquake,7.9,1.9,0.112,24,reviewed,us,us
+2017-08-27T00:02:22.440Z,-10.326,111.1036,10,5.2,mww,,23,2.465,1.14,us,us2000ac5g,2017-11-28T18:33:48.040Z,"257 km SSW of Trenggalek, Indonesia",earthquake,6.4,1.7,0.071,19,reviewed,us,us
+2017-08-21T22:53:22.030Z,-9.3234,113.4273,52.87,4.6,mb,,88,1.109,1.25,us,us2000aag3,2017-11-22T03:43:27.040Z,"115 km S of Kencong, Indonesia",earthquake,7.8,6.8,0.1,30,reviewed,us,us
+2017-08-19T21:22:17.430Z,-9.7388,111.8844,10,4.3,mb,,175,2.258,0.82,us,us2000abbg,2017-11-14T01:42:15.040Z,"179 km S of Boyolangu, Indonesia",earthquake,6.4,1.9,0.16,11,reviewed,us,us
+2017-08-09T16:50:31.400Z,-10.0844,113.1818,34.2,4.2,mb,,91,1.868,1.17,us,us2000a83d,2017-10-25T00:38:05.040Z,"200 km S of Kencong, Indonesia",earthquake,7.9,7.3,0.177,9,reviewed,us,us
+2017-08-01T13:34:51.670Z,-9.4684,113.8023,67.03,4.2,mb,,99,1.05,0.43,us,us2000a5jk,2017-10-18T01:54:13.040Z,"124 km SSW of Gambiran Satu, Indonesia",earthquake,6,9.9,0.147,13,reviewed,us,us
+2017-07-29T02:29:23.320Z,-9.4413,111.9455,50.65,4.2,mb,,184,2.07,0.61,us,us2000a400,2017-10-14T00:19:45.040Z,"146 km S of Boyolangu, Indonesia",earthquake,6.7,11.7,0.167,10,reviewed,us,us
+2017-07-28T09:06:23.030Z,-9.2867,113.0643,21.5,4.1,mb,,115,1.346,0.8,us,us2000a3ma,2017-10-14T00:19:44.040Z,"115 km SSW of Kencong, Indonesia",earthquake,7.9,10.3,0.197,7,reviewed,us,us
+2017-07-17T09:05:53.800Z,-9.7897,111.8698,40.39,4.7,mb,,115,2.291,1.33,us,us20009wwc,2017-10-11T01:03:50.040Z,"184 km S of Boyolangu, Indonesia",earthquake,4.7,9.2,0.12,21,reviewed,us,us
+2017-07-11T15:34:44.670Z,-9.0048,113.148,48.56,4.3,mb,,96,1.125,0.3,us,us20009xdp,2017-10-06T23:56:14.040Z,"83 km SSW of Kencong, Indonesia",earthquake,10.6,9.5,0.132,16,reviewed,us,us
+2017-06-22T19:20:02.460Z,-10.2589,112.7665,10,4.2,mb,,94,2.242,0.79,us,us1000956u,2017-08-23T16:35:43.040Z,"226 km S of Dampit, Indonesia",earthquake,6,2,0.263,4,reviewed,us,us
+2017-05-29T15:33:01.100Z,-9.2441,112.1255,37.7,4.2,mb,,140,2.064,0.49,us,us20009j93,2017-08-15T02:26:46.040Z,"126 km SSW of Sumberpucung, Indonesia",earthquake,8.1,10.7,0.215,6,reviewed,us,us
+2017-05-02T20:02:50.260Z,-9.5045,111.8514,40.43,4.6,mb,,72,2.055,0.88,us,us10008nkc,2017-07-29T03:16:16.040Z,"153 km S of Boyolangu, Indonesia",earthquake,6.4,7.2,0.067,69,reviewed,us,us
+2017-05-02T14:18:54.310Z,-9.5684,111.7938,35,4.2,mb,,143,2.07,1.16,us,us10008qra,2017-07-29T03:16:16.040Z,"160 km S of Boyolangu, Indonesia",earthquake,7.6,2,0.14,14,reviewed,us,us
+2017-05-02T02:56:43.090Z,-9.9511,111.3807,46.82,4.2,mb,,158,2.195,0.97,us,us10008qqx,2017-07-29T03:16:14.040Z,"210 km S of Trenggalek, Indonesia",earthquake,13,9.2,0.159,11,reviewed,us,us
+2017-05-01T10:43:20.840Z,-9.539,111.836,40.31,4.8,mb,,101,2.072,1.33,us,us10008me9,2017-07-29T03:16:10.040Z,"157 km S of Boyolangu, Indonesia",earthquake,8.6,8.1,0.096,33,reviewed,us,us
+2017-04-30T14:47:02.780Z,-9.7733,111.7055,10,4.4,mb,,158,2.187,0.97,us,us10008prm,2017-07-29T03:16:08.040Z,"184 km S of Boyolangu, Indonesia",earthquake,5.5,1.9,0.162,11,reviewed,us,us
+2017-04-30T07:44:40.130Z,-9.379,111.4547,35,4.3,mb,,145,1.723,0.44,us,us10008prd,2017-07-29T03:16:08.040Z,"146 km S of Trenggalek, Indonesia",earthquake,5.4,2,0.126,18,reviewed,us,us
+2017-04-29T17:37:33.280Z,-9.7686,111.6993,10,4.2,mb,,147,2.18,1.14,us,us10008pnv,2017-07-21T02:32:12.040Z,"183 km S of Boyolangu, Indonesia",earthquake,9.2,2,0.176,9,reviewed,us,us
+2017-04-29T15:45:54.470Z,-9.6024,111.7727,10,4.9,mb,,101,2.084,0.86,us,us10008m0z,2017-07-21T02:32:12.040Z,"164 km S of Boyolangu, Indonesia",earthquake,8.1,1.8,0.087,41,reviewed,us,us
+2017-04-29T14:30:04.080Z,-9.6529,111.7854,14.29,4.9,mb,,120,2.132,1.15,us,us10008m0t,2017-07-21T02:32:12.040Z,"170 km S of Boyolangu, Indonesia",earthquake,7.9,4.9,0.104,29,reviewed,us,us
+2017-04-29T10:02:12.550Z,-9.6687,111.8495,10,5.5,mww,,39,2.182,0.84,us,us10008lzr,2022-05-03T18:58:46.789Z,"171 km S of Boyolangu, Indonesia",earthquake,6.9,1.8,0.052,36,reviewed,us,us
+2017-04-21T20:49:04.320Z,-9.5625,113.0053,56.99,4.4,mb,,125,1.568,0.78,us,us10008jn8,2017-07-11T01:48:40.040Z,"146 km SSW of Kencong, Indonesia",earthquake,5.9,9.1,0.094,34,reviewed,us,us
+2017-04-21T03:38:51.320Z,-9.4376,111.8268,46.3,4.3,mb,,163,1.989,0.65,us,us10008n59,2017-07-11T01:48:39.040Z,"146 km S of Boyolangu, Indonesia",earthquake,11.6,8.7,0.119,20,reviewed,us,us
+2017-04-18T17:45:04.250Z,-9.5726,111.7592,40.36,4,mb,,153,2.052,0.55,us,us10008n3d,2017-07-11T01:48:36.040Z,"161 km S of Boyolangu, Indonesia",earthquake,6.6,11.5,0.163,10,reviewed,us,us
+2017-04-10T12:05:47.810Z,-9.6374,111.7197,42.54,4.3,mb,,155,2.082,0.66,us,us10008ilp,2017-07-05T18:09:55.040Z,"169 km S of Boyolangu, Indonesia",earthquake,11.9,10.2,0.147,13,reviewed,us,us
+2017-04-09T23:22:45.670Z,-9.5742,111.7819,40.91,4.9,mb,,59,2.067,0.95,us,us10008g46,2017-07-05T18:09:54.040Z,"161 km S of Boyolangu, Indonesia",earthquake,7.9,5.9,0.061,86,reviewed,us,us
+2017-02-28T01:01:42.940Z,-9.1545,113.3399,57.47,4.2,mb,,152,1.052,0.72,us,us20008mu2,2017-05-24T02:48:10.040Z,"96 km S of Kencong, Indonesia",earthquake,8.3,8.5,0.128,17,reviewed,us,us
+2017-02-12T06:42:43.480Z,-9.2988,112.1499,35,4.9,mb,,91,2.117,0.93,us,us20008jb3,2017-05-13T01:03:17.040Z,"131 km SSW of Sumberpucung, Indonesia",earthquake,8,1.8,0.086,42,reviewed,us,us
+2017-02-10T10:17:53.440Z,-9.697,111.9895,35,4.3,mb,,172,2.29,0.77,us,us20008leh,2017-05-09T01:24:33.040Z,"174 km S of Boyolangu, Indonesia",earthquake,8.8,2,0.188,8,reviewed,us,us
+2017-01-29T11:57:29.240Z,-9.4266,112.9103,62.99,4.8,mb,,100,1.551,0.76,us,us10007w16,2017-04-27T01:38:37.040Z,"135 km S of Dampit, Indonesia",earthquake,7.5,5.6,0.092,37,reviewed,us,us
+2017-01-28T09:28:32.910Z,-9.7638,112.9653,37.62,4.7,mb,,179,1.739,0.4,us,us10007vxb,2017-04-19T18:31:03.040Z,"169 km SSW of Kencong, Indonesia",earthquake,8.2,9.8,0.123,20,reviewed,us,us
+2016-12-06T10:11:58.510Z,-9.0108,110.9081,87.01,4.2,mb,,107,1.155,1.38,us,us200080gt,2017-03-03T07:06:04.040Z,"126 km S of Jatiroto, Indonesia",earthquake,9.9,9,0.141,14,reviewed,us,us
+2016-11-19T18:53:23.980Z,-9.3213,113.2126,57.12,4.2,mb,,121,1.255,0.95,us,us10007dmz,2017-02-15T23:21:28.040Z,"116 km S of Kencong, Indonesia",earthquake,4.9,9.7,0.115,21,reviewed,us,us
+2016-11-16T18:09:33.570Z,-9.2572,110.3729,48.44,4.2,mb,,146,1.344,0.79,us,us10007djp,2017-02-09T03:02:31.040Z,"144 km S of Pundong, Indonesia",earthquake,8.7,11.9,0.176,9,reviewed,us,us
+2016-11-16T15:10:11.020Z,-9.0027,113.2445,85,5.7,mww,,33,1.041,1.08,us,us100078vh,2022-05-03T19:48:51.410Z,"80 km S of Kencong, Indonesia",earthquake,6.7,1.8,,,reviewed,us,us
+2016-10-19T10:06:00.010Z,-9.428,112.9574,58.81,4,mb,,162,1.516,0.7,us,us20007gei,2017-01-15T01:13:59.040Z,"134 km SSW of Kencong, Indonesia",earthquake,6.9,10.1,0.144,13,reviewed,us,us
+2016-10-11T12:17:32.660Z,-9.5017,111.9236,64.12,4.1,mb,,175,2.1,0.64,us,us20007f30,2017-01-07T00:20:50.040Z,"153 km S of Boyolangu, Indonesia",earthquake,9.4,11.8,0.197,7,reviewed,us,us
+2016-10-08T09:10:33.280Z,-9.9019,111.6387,36.83,4.6,mb,,67,2.263,0.77,us,us20007e34,2017-01-07T00:20:45.040Z,"199 km S of Boyolangu, Indonesia",earthquake,5.9,7.7,0.103,28,reviewed,us,us
+2016-10-03T02:54:10.190Z,-9.5129,111.7207,35,4.6,mb,,92,1.982,0.96,us,us10006ulc,2017-01-03T21:10:42.040Z,"155 km S of Boyolangu, Indonesia",earthquake,6,1.9,0.089,38,reviewed,us,us
+2016-10-02T02:51:46.010Z,-9.581,111.774,59.57,4.1,mb,,197,2.068,0.51,us,us20007dmh,2017-01-03T21:10:41.040Z,"162 km S of Boyolangu, Indonesia",earthquake,12.3,9.6,0.174,9,reviewed,us,us
+2016-09-30T21:33:17.800Z,-9.6999,111.9118,57.52,4.4,mb,,75,2.244,1.09,us,us20007djb,2017-01-03T21:10:39.040Z,"174 km S of Boyolangu, Indonesia",earthquake,8,8.9,0.117,21,reviewed,us,us
+2016-09-30T21:00:44.980Z,-9.7648,111.6921,29.95,4.7,mb,,86,2.173,0.85,us,us10006u75,2017-01-03T21:10:39.040Z,"183 km S of Boyolangu, Indonesia",earthquake,6.9,5.5,0.07,61,reviewed,us,us
+2016-09-30T20:56:45.250Z,-9.4948,111.8085,35,4.7,mb,,44,2.021,0.67,us,us10006u72,2017-01-03T21:10:39.040Z,"152 km S of Boyolangu, Indonesia",earthquake,6.7,1.9,0.075,54,reviewed,us,us
+2016-09-30T14:49:44.500Z,-9.8302,111.68,22.77,4.4,mb,,94,2.222,1.07,us,us10006u3q,2017-01-03T21:10:39.040Z,"190 km S of Boyolangu, Indonesia",earthquake,8.4,7.2,0.126,18,reviewed,us,us
+2016-09-28T02:55:09.230Z,-9.7585,111.7105,33.97,4.3,mb,,93,2.177,0.57,us,us20007deu,2016-12-14T03:17:54.040Z,"182 km S of Boyolangu, Indonesia",earthquake,4.6,7.5,0.153,12,reviewed,us,us
+2016-09-19T00:02:29.400Z,-9.8802,111.636,10,4.5,mb,,143,2.243,1.2,us,us10006tt2,2016-12-12T23:01:30.040Z,"196 km S of Boyolangu, Indonesia",earthquake,7.8,1.9,0.108,25,reviewed,us,us
+2016-09-18T21:54:38.250Z,-9.4395,111.8113,53.2,4.4,mb,,80,1.981,0.81,us,us10006t9x,2016-12-12T23:01:30.040Z,"146 km S of Boyolangu, Indonesia",earthquake,6,9.1,0.143,14,reviewed,us,us
+2016-09-18T21:50:32.450Z,-9.5047,111.8051,45.78,4.6,mb,,101,2.027,0.64,us,us10006qqi,2016-12-12T23:01:30.040Z,"153 km S of Boyolangu, Indonesia",earthquake,4.4,8.1,0.087,40,reviewed,us,us
+2016-09-11T07:17:27.550Z,-9.8964,111.6283,10,4.2,mb,,158,2.253,0.98,us,us10006q56,2016-12-07T02:56:10.040Z,"198 km S of Boyolangu, Indonesia",earthquake,6.8,1.9,0.186,8,reviewed,us,us
+2016-09-10T13:22:31.340Z,-9.8042,111.6845,10,4.8,mb,,148,2.202,1.26,us,us10006nld,2016-12-07T02:56:09.040Z,"187 km S of Boyolangu, Indonesia",earthquake,8.1,1.9,0.113,24,reviewed,us,us
+2016-09-10T11:21:13.890Z,-9.7438,111.7721,10,4.7,mb,,64,2.198,0.77,us,us10006nkt,2016-12-07T02:56:09.040Z,"180 km S of Boyolangu, Indonesia",earthquake,4.2,1.9,0.091,36,reviewed,us,us
+2016-09-10T02:49:54.250Z,-9.8648,111.6546,10,5.2,mb,,61,2.239,1.16,us,us10006nii,2016-12-07T02:56:08.040Z,"194 km S of Boyolangu, Indonesia",earthquake,6.7,1.7,0.059,94,reviewed,us,us
+2016-08-14T00:00:54.430Z,-9.8826,113.9365,35,4.3,mb,,103,1.419,1.45,us,us10006eqz,2016-11-15T02:21:48.040Z,"166 km SSW of Muncar, Indonesia",earthquake,4.9,2,0.138,15,reviewed,us,us
+2016-06-01T19:50:43.260Z,-9.1741,113.1066,57.65,4.7,mb,,43,1.247,0.89,us,us20005zqk,2022-08-03T00:30:31.341Z,"102 km SSW of Kencong, Indonesia",earthquake,7,6,0.078,50,reviewed,us,us
+2016-05-16T03:33:57.510Z,-10.5719,113.1893,11.67,4.1,mb,,84,2.294,1.08,us,us10005jkc,2016-07-22T19:39:08.040Z,"253 km S of Kencong, Indonesia",earthquake,8.4,5.6,0.145,13,reviewed,us,us
+2016-05-06T17:14:46.720Z,-9.4775,112.9412,53.87,4.1,mb,,175,1.559,0.75,us,us10005h5r,2016-07-20T18:10:45.040Z,"140 km SSW of Kencong, Indonesia",earthquake,10,11.3,0.174,9,reviewed,us,us
+2016-05-04T20:43:00.900Z,-9.0959,112.1763,60.84,4.1,mb,,169,2.014,0.62,us,us10005gt1,2016-07-19T20:03:13.040Z,"109 km SSW of Sumberpucung, Indonesia",earthquake,6.8,9.7,0.157,11,reviewed,us,us
+2016-05-02T07:13:48.790Z,-10.8578,112.0594,10,4.1,mb,,103,3.144,1.24,us,us10005ghw,2016-07-19T20:03:09.040Z,"south of Java, Indonesia",earthquake,8.7,2,0.165,10,reviewed,us,us
+2016-04-14T18:15:14.120Z,-9.5345,112.946,40.08,4.1,mb,,87,1.593,1.2,us,us20005kv8,2016-06-21T01:14:13.040Z,"145 km SSW of Kencong, Indonesia",earthquake,8.2,9.6,0.112,22,reviewed,us,us
+2016-02-16T21:29:38.800Z,-10.4684,111.3514,10,4.6,mb,,102,2.668,0.64,us,us200050n4,2016-04-26T23:28:24.040Z,"266 km SSW of Boyolangu, Indonesia",earthquake,7.8,1.9,0.107,26,reviewed,us,us
+2016-02-10T00:49:25.260Z,-9.0938,113.093,69.39,4.3,mb,,83,1.216,1.16,us,us20004zrm,2016-04-19T01:33:28.040Z,"94 km SSW of Kencong, Indonesia",earthquake,6.4,9.8,0.218,6,reviewed,us,us
+2016-02-09T04:17:19.070Z,-9.2811,110.7225,41.02,4.2,mb,,130,1.374,0.81,us,us20004zqy,2016-04-19T01:33:26.040Z,"152 km SSE of Pundong, Indonesia",earthquake,9.8,9.2,0.153,12,reviewed,us,us
+2016-01-08T13:08:22.200Z,-9.5895,112.8751,44.64,4.1,mb,,131,1.681,1.05,us,us10004eg7,2016-03-30T02:27:49.040Z,"153 km S of Dampit, Indonesia",earthquake,7.5,9.3,0.123,18,reviewed,us,us
+2015-12-18T06:10:26.210Z,-9.6322,112.9668,40.92,4.2,mb,,82,1.644,1.24,us,us100048sw,2016-03-12T02:29:15.040Z,"155 km SSW of Kencong, Indonesia",earthquake,8.8,10,0.176,9,reviewed,us,us
+2015-12-16T18:54:47.000Z,-9.1226,110.428,51.32,4.5,mb,,192,1.206,0.84,us,us1000485s,2016-03-05T01:42:09.040Z,"129 km S of Pundong, Indonesia",earthquake,11.3,7.3,0.145,14,reviewed,us,us
+2015-12-15T07:43:29.050Z,-9.6383,112.9358,53.23,4.3,mb,,88,1.67,1.04,us,us1000484e,2016-03-05T01:42:07.040Z,"157 km SSW of Kencong, Indonesia",earthquake,8.1,10.8,0.267,4,reviewed,us,us
+2015-12-15T07:38:10.950Z,-9.6356,112.8601,43.35,4.6,mb,,88,1.723,1.29,us,us20004ha6,2016-03-05T01:42:07.040Z,"157 km S of Dampit, Indonesia",earthquake,5.7,7,0.097,32,reviewed,us,us
+2015-11-12T02:34:43.140Z,-9.5526,112.3083,63.86,4.3,mb,,89,2.115,0.64,us,us10003xpa,2016-02-13T02:08:16.040Z,"155 km S of Sumberpucung, Indonesia",earthquake,7.1,6.8,0.122,19,reviewed,us,us
+2015-11-07T20:57:51.820Z,-10.1753,111.1987,10,5,mww,,37,2.345,1.34,us,us10003vlf,2022-08-01T16:36:16.296Z,"238 km SSW of Trenggalek, Indonesia",earthquake,6.5,1.7,,,reviewed,us,us
+2015-10-29T19:42:15.990Z,-10.7451,111.9521,33.83,4,mb,,183,3.133,0.8,us,us200041c4,2016-01-30T02:10:55.040Z,"290 km S of Boyolangu, Indonesia",earthquake,10.7,4.7,0.163,10,reviewed,us,us
+2015-10-04T16:40:16.680Z,-9.1985,110.3619,41.64,4.7,mb,,56,1.287,1.09,us,us10003k7z,2016-01-04T22:29:06.040Z,"137 km S of Pundong, Indonesia",earthquake,7.3,7.1,0.08,48,reviewed,us,us
+2015-09-22T03:50:17.670Z,-10.762,112.2797,33.24,4.2,mb,,101,2.931,0.92,us,us10003lc2,2015-12-21T23:16:31.040Z,"286 km S of Dampit, Indonesia",earthquake,6.9,3.8,0.187,8,reviewed,us,us
+2015-09-18T04:12:54.820Z,-9.1462,110.4025,53.03,4.1,mb,,128,1.231,0.84,us,us10003jhh,2015-12-21T23:16:19.040Z,"132 km S of Pundong, Indonesia",earthquake,8.3,9.6,0.165,10,reviewed,us,us
+2015-07-26T11:26:13.460Z,-9.3764,112.6786,63.67,4,mb,,87,1.711,0.55,us,us1000328e,2015-10-22T20:05:00.040Z,"129 km S of Dampit, Indonesia",earthquake,9.1,8,0.163,10,reviewed,us,us
+2015-07-26T07:05:10.130Z,-9.2585,112.6695,52,5.9,mww,,14,1.661,1.1,us,us2000306u,2022-07-31T20:49:44.751Z,"116 km S of Dampit, Indonesia",earthquake,6.4,1.8,,,reviewed,us,us
+2015-06-05T16:38:05.280Z,-9.3155,111.5017,56.12,4.9,mb,,89,1.696,1.33,us,us20002mdr,2022-07-31T11:29:02.013Z,"138 km S of Trenggalek, Indonesia",earthquake,4.2,7.4,0.09,39,reviewed,us,us
+2015-05-09T21:22:11.190Z,-9.5591,112.8361,36.83,4.1,mb,,65,1.691,0.94,us,us10002atj,2015-07-17T07:06:03.040Z,"149 km S of Dampit, Indonesia",earthquake,7.5,8.2,0.12,19,reviewed,us,us
+2015-05-01T02:46:22.140Z,-9.4395,112.9109,61.38,5,mb,,44,1.559,1.48,us,us20002al3,2022-07-31T03:15:49.870Z,"136 km S of Dampit, Indonesia",earthquake,6.7,4.9,0.061,86,reviewed,us,us
+2015-04-06T10:48:30.920Z,-9.3692,110.3879,46.78,4.1,mb,,91,1.453,1.34,us,us200026fd,2015-06-16T01:00:29.040Z,"156 km S of Pundong, Indonesia",earthquake,4.8,9.6,0.14,14,reviewed,us,us
+2015-04-06T02:35:21.370Z,-9.3057,110.3747,49.08,4.2,mb,,91,1.392,0.76,us,us10001u8u,2015-06-16T01:00:29.040Z,"149 km S of Pundong, Indonesia",earthquake,7.8,6.5,0.137,15,reviewed,us,us
+2015-04-06T02:12:53.670Z,-9.2983,110.347,47.43,4.4,mb,,49,1.387,1.24,us,us10001u8n,2015-06-16T01:00:29.040Z,"148 km S of Pundong, Indonesia",earthquake,6.8,5.4,0.127,18,reviewed,us,us
+2015-04-05T18:20:26.590Z,-9.7537,110.5096,32.57,4.5,mb,,171,1.829,1.29,us,us200026e0,2015-06-16T01:00:28.040Z,"200 km S of Pundong, Indonesia",earthquake,12.1,4.7,0.192,8,reviewed,us,us
+2015-04-05T13:00:43.890Z,-9.3061,110.3196,40.25,4.7,mb,,86,1.399,0.77,us,us10001u3t,2015-06-16T01:00:28.040Z,"149 km S of Pundong, Indonesia",earthquake,7.6,3.4,0.073,56,reviewed,us,us
+2015-03-16T01:39:46.350Z,-9.7466,112.8253,58.81,4.2,mb,,89,1.823,0.9,us,us10001mny,2015-06-04T00:46:22.040Z,"169 km S of Dampit, Indonesia",earthquake,8.2,9.3,0.147,15,reviewed,us,us
+2015-03-15T21:19:13.920Z,-9.6876,112.8854,49.71,5,mb,,66,1.74,0.39,us,us10001ml0,2015-06-04T00:46:21.040Z,"163 km S of Dampit, Indonesia",earthquake,4.8,5,0.079,56,reviewed,us,us
+2015-03-15T13:24:47.430Z,-9.2159,110.4645,54.69,4.1,mb,,165,1.296,1.47,us,us10001ngp,2015-06-04T00:46:21.040Z,"140 km S of Pundong, Indonesia",earthquake,9,9.9,0.234,5,reviewed,us,us
+2015-01-24T19:16:32.720Z,-9.1804,113.099,58.71,4,mb,,84,1.257,1.03,us,usc000tl0h,2015-04-24T16:56:00.040Z,"103 km SSW of Kencong, Indonesia",earthquake,6.3,10.3,0.183,9,reviewed,us,us
+2015-01-15T13:18:35.930Z,-9.5714,112.8937,48.89,4.2,mb,,114,1.656,1.33,us,usc000tj3v,2015-04-20T15:34:44.040Z,"151 km S of Dampit, Indonesia",earthquake,9.3,10.4,0.2,7,reviewed,us,us
+2015-01-14T08:01:28.530Z,-9.5642,112.9184,45.3,4.3,mb,,88,1.633,1.03,us,usc000tfk9,2015-04-10T18:56:33.040Z,"149 km SSW of Kencong, Indonesia",earthquake,5.5,9.1,0.168,11,reviewed,us,us
+2015-01-01T15:45:49.500Z,-9.4648,113.3892,51.54,4,mb,,85,1.242,1.29,us,usc000tg5g,2015-03-27T07:01:01.040Z,"130 km S of Kencong, Indonesia",earthquake,7,5.8,0.196,7,reviewed,us,us
+2014-11-28T05:27:59.600Z,-9.0587,112.5287,47.72,4.1,mb,,84,1.707,1.09,us,usc000t5yc,2015-02-24T00:35:09.040Z,"96 km SSW of Dampit, Indonesia",earthquake,7.5,8.4,0.185,8,reviewed,us,us
+2014-10-31T00:02:14.650Z,-9.6174,113.7262,34.38,4.3,mb,,85,1.215,0.88,us,usc000swly,2015-01-20T09:03:04.040Z,"142 km SSW of Gambiran Satu, Indonesia",earthquake,5.1,6.7,0.154,15,reviewed,us,us
+2014-10-27T03:40:46.550Z,-10.3214,112.8213,34.9,4,mb,,94,2.26,1.16,us,usc000svev,2015-01-17T01:25:40.040Z,"233 km SSW of Kencong, Indonesia",earthquake,8.3,8.1,0.196,8,reviewed,us,us
+2014-10-26T23:24:55.960Z,-10.2751,112.8117,47.26,4.5,mb,,88,2.228,1.07,us,usb000sqt4,2015-01-17T01:25:40.040Z,"228 km S of Dampit, Indonesia",earthquake,7.2,7.5,0.087,43,reviewed,us,us
+2014-10-26T09:07:24.990Z,-10.3177,112.7863,29.91,4.9,mb,,39,2.277,1.07,us,usb000sqqh,2015-01-17T01:25:39.040Z,"232 km S of Dampit, Indonesia",earthquake,6.5,4,0.077,56,reviewed,us,us
+2014-10-26T09:06:05.800Z,-10.3732,112.7722,25.21,4.1,mb,,95,2.33,0.88,us,usc000svdr,2015-01-17T01:25:39.040Z,"239 km S of Dampit, Indonesia",earthquake,8.4,8,0.174,11,reviewed,us,us
+2014-10-26T08:56:41.720Z,-10.2403,112.7996,36.09,5,mb,,26,2.207,0.97,us,usb000sqqg,2015-01-17T01:25:39.040Z,"224 km S of Dampit, Indonesia",earthquake,4.6,4.6,0.074,64,reviewed,us,us
+2014-10-03T05:26:29.940Z,-9.4264,110.3297,60.7,4.5,mb,,92,1.516,0.67,us,usb000smdq,2014-12-23T01:41:59.040Z,"163 km S of Pundong, Indonesia",earthquake,4.9,9.3,0.113,25,reviewed,us,us
+2014-10-03T04:57:28.570Z,-9.1953,110.3486,46.44,4.4,mb,,66,1.286,0.97,us,usb000sie9,2014-12-23T01:41:59.040Z,"137 km S of Pundong, Indonesia",earthquake,8.1,6.8,0.155,20,reviewed,us,us
+2014-10-02T15:52:57.360Z,-10.3478,113.2808,34.82,4.2,mb,,88,2.054,1.07,us,usb000sm0a,2014-12-23T01:41:58.040Z,"228 km S of Kencong, Indonesia",earthquake,8.4,4.9,0.175,11,reviewed,us,us
+2014-09-17T22:10:39.410Z,-9.7762,112.9061,10,4.1,mb,,89,1.788,1.35,us,usb000sgec,2014-12-19T00:05:19.040Z,"172 km SSW of Kencong, Indonesia",earthquake,7.2,1.9,0.198,8,reviewed,us,us
+2014-09-06T19:50:21.090Z,-9.4391,112.5873,35,4.4,mb,,87,1.821,1.28,us,usb000sa15,2014-12-05T23:36:37.040Z,"136 km S of Dampit, Indonesia",earthquake,5.5,2,0.123,21,reviewed,us,us
+2014-09-02T18:39:40.650Z,-10.1463,111.224,35.57,4.5,mb,,106,2.325,0.92,us,usc000s91n,2014-11-29T00:09:25.000Z,"234 km SSW of Trenggalek, Indonesia",earthquake,7.4,6.7,0.088,42,reviewed,us,us
+2014-08-31T23:00:59.900Z,-9.5301,113.9997,58.22,4,mb,,63,1.063,0.85,us,usb000sbdf,2014-11-29T00:09:23.000Z,"126 km S of Gambiran Satu, Indonesia",earthquake,7.7,9.7,0.156,13,reviewed,us,us
+2014-08-31T13:43:46.950Z,-9.656,111.5897,52.81,4.2,mb,,173,2.027,1.38,us,usb000sbcy,2014-11-29T00:09:22.000Z,"173 km S of Boyolangu, Indonesia",earthquake,10.7,6.9,0.186,10,reviewed,us,us
+2014-08-27T12:58:26.450Z,-9.4813,111.8333,42.49,4.4,mb,,90,2.026,0.89,us,usb000sadp,2014-11-29T00:09:16.000Z,"150 km S of Boyolangu, Indonesia",earthquake,7,9,0.118,22,reviewed,us,us
+2014-08-17T20:15:16.820Z,-9.3015,112.5382,58.34,4.3,mb,,50,1.796,1.15,us,usb000s3lx,2014-11-15T04:07:13.000Z,"122 km S of Dampit, Indonesia",earthquake,,7.1,0.143,16,reviewed,us,us
+2014-08-12T16:29:03.270Z,-9.1034,113.0986,61.32,4.3,mb,,86,1.216,0.66,us,usb000s5cw,2014-11-07T21:47:41.000Z,"95 km SSW of Kencong, Indonesia",earthquake,,12,0.217,7,reviewed,us,us
+2014-07-25T00:15:37.790Z,-9.3775,113.1421,64.24,4.3,mb,,85,1.344,0.92,us,usb000s0bt,2014-10-25T01:49:35.000Z,"123 km SSW of Kencong, Indonesia",earthquake,,9.6,0.153,13,reviewed,us,us
+2014-07-24T08:41:07.550Z,-9.1269,111.5753,35,5,mb,,23,1.593,1.35,us,usb000rwt6,2022-07-26T20:18:09.739Z,"116 km SSW of Boyolangu, Indonesia",earthquake,,1.8,0.073,64,reviewed,us,us
+2014-07-24T08:16:51.600Z,-9.3146,113.0401,35,4.5,mb,,79,1.382,1.18,us,usb000rwt4,2014-10-25T01:49:34.000Z,"119 km SSW of Kencong, Indonesia",earthquake,,1.9,0.104,31,reviewed,us,us
+2014-07-14T01:26:19.130Z,-9.1253,110.1586,47.27,4.3,mb,,73,1.257,1.38,us,usb000rwtj,2014-10-10T08:02:17.000Z,"130 km S of Bambanglipuro, Indonesia",earthquake,,8.7,0.148,13,reviewed,us,us
+2014-07-10T16:49:17.730Z,-9.753,111.536,43.85,4.1,mb,,131,2.084,0.92,us,usb000rub0,2014-10-10T08:02:11.000Z,"185 km SSW of Boyolangu, Indonesia",earthquake,,10.1,0.185,8,reviewed,us,us
+2014-07-09T13:34:49.240Z,-9.7572,111.5563,34.16,4.4,mb,,93,2.098,1.38,us,usb000ruc5,2014-10-10T08:02:10.000Z,"185 km SSW of Boyolangu, Indonesia",earthquake,,7.5,0.31,5,reviewed,us,us
+2014-07-09T06:03:07.990Z,-9.603,111.6233,38.5,4.7,mb,,42,2.001,0.89,us,usb000rr6k,2014-10-10T08:02:09.000Z,"166 km S of Boyolangu, Indonesia",earthquake,,4.6,0.092,36,reviewed,us,us
+2014-06-27T01:22:21.330Z,-9.9473,112.1615,43.38,4.1,mb,,174,2.452,1.19,us,usb000rvl4,2014-09-26T11:49:39.000Z,"200 km S of Sumberpucung, Indonesia",earthquake,,8.4,0.26,7,reviewed,us,us
+2014-06-06T22:18:39.580Z,-9.4914,112.9375,56.99,4.3,mb,,116,1.571,0.9,us,usc000rccq,2014-08-30T17:03:00.000Z,"141 km SSW of Kencong, Indonesia",earthquake,,9.9,0.129,17,reviewed,us,us
+2014-06-04T09:01:41.310Z,-10.9419,110.0438,10,4.4,mb,,78,3.047,1.27,us,usc000ratt,2014-08-30T17:03:00.000Z,"south of Java, Indonesia",earthquake,,1.8,0.11,26,reviewed,us,us
+2014-05-29T09:29:22.280Z,-10.5161,113.0641,10,4,mb,,165,2.298,1.27,us,usc000rg45,2014-08-26T01:21:03.000Z,"249 km S of Kencong, Indonesia",earthquake,,2,0.211,6,reviewed,us,us
+2014-05-28T13:49:04.390Z,-9.0558,112.8697,76.17,4.4,mb,,84,1.394,1,us,usc000rf63,2014-08-26T01:21:02.000Z,"94 km S of Dampit, Indonesia",earthquake,,8.1,0.117,21,reviewed,us,us
+2014-04-28T07:52:29.930Z,-9.3071,110.3596,35,4.3,mb,,91,1.395,0.99,us,usb000qusj,2014-07-14T20:11:21.000Z,"149 km S of Pundong, Indonesia",earthquake,,2,0.129,21,reviewed,us,us
+2014-04-28T07:27:33.490Z,-9.2998,110.2606,12.26,4.4,mb,,91,1.402,1.29,us,usb000q22x,2014-07-14T20:11:21.000Z,"149 km S of Bambanglipuro, Indonesia",earthquake,,5.6,0.134,18,reviewed,us,us
+2014-04-28T05:38:47.650Z,-9.2188,110.3843,35,4.2,mb,,48,1.305,1.34,us,usb000q207,2014-07-14T20:11:21.000Z,"140 km S of Pundong, Indonesia",earthquake,,1.9,0.121,23,reviewed,us,us
+2014-04-28T05:20:39.310Z,-9.2582,110.2745,18.14,4.5,mb,,55,1.359,1.29,us,usb000q1zl,2014-07-14T20:11:21.000Z,"144 km S of Pundong, Indonesia",earthquake,,2.3,0.086,46,reviewed,us,us
+2014-04-25T10:16:34.480Z,-9.1105,111.8628,35,4.1,mb,,108,1.781,0.97,us,usb000qnyq,2014-07-14T20:11:14.000Z,"109 km S of Boyolangu, Indonesia",earthquake,,2,0.174,9,reviewed,us,us
+2014-04-22T23:20:52.940Z,-10.5908,113.8299,21.38,4.5,mb,,93,2.131,0.56,us,usb000qqrh,2014-07-04T01:35:19.000Z,"244 km SSW of Muncar, Indonesia",earthquake,,6.1,0.221,9,reviewed,us,us
+2014-04-18T15:36:27.480Z,-9.276,110.227,48.62,4.2,mb,,89,1.386,1.22,us,usb000ql00,2014-07-04T01:33:41.000Z,"146 km S of Bambanglipuro, Indonesia",earthquake,,11.7,0.175,9,reviewed,us,us
+2014-04-18T15:07:10.590Z,-9.1005,110.4197,36.93,5,mb,,73,1.184,1.31,us,usb000pq5b,2014-07-04T01:33:40.000Z,"south of Java, Indonesia",earthquake,,5.5,0.086,43,reviewed,us,us
+2014-04-18T14:10:23.200Z,-9.3623,110.4148,69.77,4.2,mb,,139,2.298,1.37,us,usb000qkzr,2014-07-04T01:33:38.000Z,"156 km S of Pundong, Indonesia",earthquake,,8.8,0.137,15,reviewed,us,us
+2014-04-18T13:33:36.010Z,-9.0559,110.3444,15.37,5.3,mb,,26,2.913,1.25,us,usb000pq2c,2014-07-04T01:33:38.000Z,"122 km S of Pundong, Indonesia",earthquake,,3.3,0.066,78,reviewed,us,us
+2014-04-04T00:34:00.690Z,-9.4877,113.1437,49.72,4.2,mb,,86,1.419,0.57,us,usc000p487,2014-06-11T06:06:06.000Z,"135 km S of Kencong, Indonesia",earthquake,,9.5,0.141,16,reviewed,us,us
+2014-02-22T22:25:36.690Z,-9.033,111.4286,83.77,4.2,mb,,57,1.428,1.12,us,usc000n45e,2014-05-07T00:03:07.000Z,"110 km SSW of Trenggalek, Indonesia",earthquake,,7.7,0.131,16,reviewed,us,us
+2014-02-18T13:42:22.890Z,-10.8826,111.2132,10,4.4,mb,,150,12.046,0.75,us,usb000myfh,2014-04-30T21:18:25.000Z,"south of Java, Indonesia",earthquake,,1.9,0.161,11,reviewed,us,us
+2014-01-02T18:47:58.230Z,-10.8855,113.1514,39.99,4.6,mb,,128,2.594,0.86,us,usc000lvsm,2014-03-07T00:25:56.000Z,"288 km S of Kencong, Indonesia",earthquake,,6.4,0.105,30,reviewed,us,us
+2013-11-28T18:13:55.340Z,-9.2487,113.332,55.21,4.4,mb,,159,1.12,0.28,us,usb000la62,2014-02-12T01:08:36.000Z,"106 km S of Kencong, Indonesia",earthquake,,11.5,0.241,,reviewed,us,us
+2013-11-26T11:29:53.750Z,-9.4455,112.9276,61.39,4,mb,,110,1.55,0.95,us,usb000l85j,2014-02-12T01:08:33.000Z,"137 km SSW of Kencong, Indonesia",earthquake,,9.2,0.232,,reviewed,us,us
+2013-11-23T08:14:36.780Z,-10.8629,113.7776,34.88,4.5,mb,,76,2.406,1.15,us,usb000l7pr,2014-02-11T02:18:56.000Z,"274 km SSW of Jimbaran, Indonesia",earthquake,,6,0.124,,reviewed,us,us
+2013-10-24T08:20:55.770Z,-9.6088,111.1329,35.22,4,mb,,186,1.79,1.29,us,usb000kx8h,2014-01-03T00:32:52.000Z,"180 km SSW of Trenggalek, Indonesia",earthquake,,3.2,0.195,,reviewed,us,us
+2013-09-03T23:28:25.700Z,-10.8805,113.8329,9.58,4.6,mb,,100,2.415,0.96,us,usb000jge5,2013-11-15T03:20:22.000Z,"273 km SSW of Jimbaran, Indonesia",earthquake,,3.8,0.11,,reviewed,us,us
+2013-09-01T20:31:50.170Z,-10.8673,112.4105,21.67,4.6,mb,,158,2.936,1.42,us,usb000jetl,2013-11-06T01:33:39.000Z,"296 km S of Dampit, Indonesia",earthquake,,5.7,0.145,,reviewed,us,us
+2013-06-14T23:29:24.700Z,-10.978,113.89,39.5,4.3,mb,42,76,,0.58,us,usp000k18x,2014-11-07T01:51:04.430Z,"279 km SSW of Jimbaran, Indonesia",earthquake,,9.1,,14,reviewed,us,us
+2013-06-14T11:26:45.810Z,-9.216,110.441,10,4.4,mb,32,58,,0.86,us,usc000hqlt,2014-11-07T01:51:04.327Z,"140 km S of Pundong, Indonesia",earthquake,,,,19,reviewed,us,us
+2013-06-13T22:46:43.520Z,-10.797,113.919,10.2,4.5,mb,27,96,,0.66,us,us2013rjcm,2014-11-07T01:51:04.275Z,"260 km SSW of Jimbaran, Indonesia",earthquake,,1.9,,8,reviewed,us,us
+2013-06-04T06:40:27.510Z,-10.852,113.837,24,4.6,mb,53,57,,1.04,us,usb000hcsk,2014-11-07T01:51:00.461Z,"270 km SSW of Jimbaran, Indonesia",earthquake,,4.9,,24,reviewed,us,us
+2013-05-18T11:08:19.940Z,-9.377,112.472,35,4.4,mb,30,64,,1.04,us,us2013qies,2014-11-07T01:50:49.848Z,"132 km SSW of Dampit, Indonesia",earthquake,,,,16,reviewed,us,us
+2013-05-15T14:24:04.790Z,-10.736,113.935,35,4.5,mb,43,100.7,,0.82,us,us2013qfaz,2014-11-07T01:50:48.645Z,"253 km SSW of Jimbaran, Indonesia",earthquake,,,,15,reviewed,us,us
+2013-05-14T19:09:24.260Z,-10.558,112.391,15.9,4.4,mb,32,98,,1.38,us,us2013qec2,2014-11-07T01:50:48.262Z,"262 km S of Dampit, Indonesia",earthquake,,6.2,,9,reviewed,us,us
+2013-05-03T08:22:54.080Z,-10.75,113.918,38.4,4,mb,27,93,,1.24,us,us2013ptcr,2014-11-07T01:50:43.845Z,"255 km SSW of Jimbaran, Indonesia",earthquake,,6.8,,4,reviewed,us,us
+2013-03-25T07:40:38.740Z,-10.859,113.888,41.3,4.5,mb,31,93.5,,1.5,us,usb000fs68,2014-11-07T01:50:23.126Z,"267 km SSW of Jimbaran, Indonesia",earthquake,,,,11,reviewed,us,us
+2013-02-05T10:08:09.160Z,-9.256,110.527,51.9,4.3,mb,30,75.4,,1.49,us,usp000jz0g,2014-11-07T01:50:00.712Z,"145 km S of Pundong, Indonesia",earthquake,,9.7,,8,reviewed,us,us
+2013-02-02T11:54:03.740Z,-9.675,112.965,35,4.5,mb,44,88.3,,0.99,us,usc000f01s,2014-11-07T01:49:59.527Z,"160 km SSW of Kencong, Indonesia",earthquake,,,,15,reviewed,us,us
+2013-01-14T07:36:10.230Z,-9.658,112.838,46.5,4.6,mb,53,88.5,,1.09,us,usp000jydh,2014-11-07T01:49:49.924Z,"160 km S of Dampit, Indonesia",earthquake,,6.2,,16,reviewed,us,us
+2013-01-13T03:13:52.090Z,-9.55,112.925,46.2,4.4,mb,40,153,,0.9,us,usp000jybf,2014-11-07T01:49:49.367Z,"148 km SSW of Kencong, Indonesia",earthquake,,7.3,,8,reviewed,us,us
+2013-01-02T14:57:40.230Z,-10.856,113.875,4.8,4.5,mb,49,88,,0.86,us,usp000jxr7,2014-11-07T01:49:44.636Z,"268 km SSW of Jimbaran, Indonesia",earthquake,,12.7,,12,reviewed,us,us
+2012-12-24T04:38:31.260Z,-9.318,110.232,15.5,4.9,mb,61,41.2,,0.91,us,usp000jxbe,2014-11-07T01:49:39.250Z,"151 km S of Bambanglipuro, Indonesia",earthquake,,13.9,,14,reviewed,us,us
+2012-12-16T16:24:23.840Z,-10.984,113.994,17,4.2,mb,36,119.8,,0.98,us,usp000jx1k,2014-11-07T01:49:37.130Z,"south of Java, Indonesia",earthquake,,16,,5,reviewed,us,us
+2012-11-19T14:46:28.380Z,-10.878,113.626,15.6,4.1,mb,22,138.9,,0.82,us,usp000jvu8,2014-11-07T01:49:24.451Z,"south of Java, Indonesia",earthquake,,22,,5,reviewed,us,us
+2012-11-10T17:46:36.730Z,-10.838,113.795,10,4.3,mb,28,128.3,,1.33,us,usp000jvb4,2014-11-07T01:49:20.258Z,"271 km SSW of Jimbaran, Indonesia",earthquake,,,,10,reviewed,us,us
+2012-10-27T10:51:24.540Z,-9.073,111.378,71.1,4.4,mb,50,146.4,,1.09,us,usp000jugm,2014-11-07T01:49:09.074Z,"116 km SSW of Trenggalek, Indonesia",earthquake,,6.1,,16,reviewed,us,us
+2012-10-25T05:28:16.710Z,-10.997,113.469,10,4,mb,16,175.4,,0.9,us,usp000judu,2014-11-07T01:49:08.508Z,"297 km SSW of Gambiran Satu, Indonesia",earthquake,,,,3,reviewed,us,us
+2012-10-23T16:34:17.960Z,-10.788,113.672,22.8,4.2,mb,25,165.2,,0.63,us,usp000juc3,2014-11-07T01:49:08.169Z,"270 km S of Gambiran Satu, Indonesia",earthquake,,14.3,,7,reviewed,us,us
+2012-10-15T16:05:11.970Z,-10.84,113.728,22.4,4.3,mb,48,55.8,,0.83,us,usp000ju12,2014-11-07T01:49:05.812Z,"274 km SSW of Muncar, Indonesia",earthquake,,10.8,,13,reviewed,us,us
+2012-10-15T05:51:39.000Z,-10.75,113.797,10,4.1,mb,20,162.3,,1.41,us,usp000ju0e,2014-11-07T01:49:05.745Z,"262 km SSW of Muncar, Indonesia",earthquake,,,,4,reviewed,us,us
+2012-10-07T08:21:14.980Z,-10.827,113.79,10,4.8,mb,18,128.2,,1.33,us,usp000jtp6,2014-11-07T01:49:03.488Z,"270 km SW of Jimbaran, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-10-06T23:22:30.240Z,-10.707,113.92,10,4.2,mb,19,77.1,,0.87,us,usp000jtns,2014-11-07T01:49:03.376Z,"251 km SSW of Jimbaran, Indonesia",earthquake,,,,7,reviewed,us,us
+2012-10-03T22:37:37.610Z,-10.815,113.833,20.1,4.7,mb,29,101.5,,1.14,us,usp000jtgh,2014-11-07T01:49:02.260Z,"267 km SSW of Jimbaran, Indonesia",earthquake,,23.5,,6,reviewed,us,us
+2012-10-02T15:46:05.760Z,-10.785,113.767,10,4.6,mb,35,74.3,,0.8,us,usp000jtdu,2014-11-07T01:49:00.887Z,"267 km SSW of Muncar, Indonesia",earthquake,,,,12,reviewed,us,us
+2012-10-01T20:39:59.900Z,-10.905,113.648,10,4,mb,14,170.5,,1.07,us,usp000jtc0,2014-11-07T01:48:59.915Z,"283 km S of Gambiran Satu, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-10-01T18:14:14.140Z,-10.744,113.724,10,4.2,mb,10,206.8,,0.91,us,usp000jtbt,2014-11-07T01:48:59.795Z,"264 km S of Gambiran Satu, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-10-01T15:26:50.300Z,-10.759,113.777,10,4.4,mb,34,137.1,,0.91,us,usp000jtbg,2014-11-07T01:48:59.492Z,"264 km SSW of Muncar, Indonesia",earthquake,,,,8,reviewed,us,us
+2012-09-28T03:27:20.350Z,-10.755,113.818,10,4.4,mb,14,129.3,,1.33,us,usp000jt56,2014-11-07T01:48:56.143Z,"262 km SW of Jimbaran, Indonesia",earthquake,,,,3,reviewed,us,us
+2012-09-27T22:24:19.200Z,-10.582,113.989,10,4.3,mb,17,152.8,,0.85,us,usp000jt4g,2014-11-07T01:48:56.071Z,"236 km SSW of Jimbaran, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-25T20:25:23.920Z,-10.762,113.877,1,4.6,mb,25,148.9,,1.28,us,usp000jsz1,2014-11-07T01:48:54.933Z,"259 km SSW of Jimbaran, Indonesia",earthquake,,24.8,,4,reviewed,us,us
+2012-09-22T23:05:06.910Z,-10.956,113.768,10,4,mb,16,133.4,,1.12,us,usp000jsrk,2014-11-07T01:48:54.013Z,"284 km SSW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-09-22T15:15:53.710Z,-10.836,113.767,10,4.2,mb,16,134.2,,1.17,us,usp000jsqu,2014-11-07T01:48:53.922Z,"272 km SSW of Muncar, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-09-22T14:15:35.120Z,-10.798,113.806,10,4.1,mb,34,101.6,,0.86,us,usp000jsqp,2014-11-07T01:48:53.910Z,"267 km SW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-09-19T13:44:15.630Z,-9.717,113.544,10,4.1,mb,22,147.7,,1.51,us,usp000jsk7,2014-11-07T01:48:52.890Z,"159 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-09-19T07:31:42.600Z,-10.767,113.919,10,4.4,mb,43,51.5,,0.82,us,usp000jsjw,2014-11-07T01:48:52.842Z,"257 km SSW of Jimbaran, Indonesia",earthquake,,,,12,reviewed,us,us
+2012-09-19T07:12:08.670Z,-10.756,113.893,10,4.3,mb,33,105.3,,0.77,us,usp000jsjv,2014-11-07T01:48:52.828Z,"258 km SSW of Jimbaran, Indonesia",earthquake,,,,9,reviewed,us,us
+2012-09-17T14:19:24.220Z,-10.78,113.821,16.1,4.8,mb,120,27.4,,0.76,us,usp000jsg7,2014-11-07T01:48:52.397Z,"264 km SW of Jimbaran, Indonesia",earthquake,,8.4,,24,reviewed,us,us
+2012-09-17T13:27:23.530Z,-10.878,113.807,10,4.7,mb,49,64.8,,1.31,us,usp000jsg4,2014-11-07T01:48:52.388Z,"274 km SSW of Jimbaran, Indonesia",earthquake,,,,11,reviewed,us,us
+2012-09-16T15:32:55.590Z,-10.721,113.865,18.3,4.9,mb,142,27.4,,0.73,us,usp000jses,2014-11-07T01:48:52.230Z,"256 km SW of Jimbaran, Indonesia",earthquake,,7.6,,37,reviewed,us,us
+2012-09-16T13:13:30.520Z,-10.801,113.741,10,4.3,mb,36,128.2,,1.01,us,usp000jsek,2014-11-07T01:48:52.202Z,"269 km SSW of Muncar, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-15T18:19:54.870Z,-10.798,113.922,10,4,mb,30,127.4,,1.48,us,usp000jscj,2014-11-07T01:48:51.901Z,"260 km SSW of Jimbaran, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-15T17:35:40.980Z,-10.738,113.883,10,5.3,mb,283,23.1,,0.99,us,usp000jsch,2014-11-07T01:48:51.881Z,"256 km SSW of Jimbaran, Indonesia",earthquake,,,,94,reviewed,us,us
+2012-09-15T17:33:36.010Z,-10.74,113.942,10,4.5,mb,22,148.4,,1.24,us,usp000jscg,2014-11-07T01:48:51.878Z,"253 km SSW of Jimbaran, Indonesia",earthquake,,,,5,reviewed,us,us
+2012-09-15T17:25:45.310Z,-10.797,113.785,10,4.2,mb,22,149.7,,1.13,us,usp000jsce,2014-11-07T01:48:51.872Z,"268 km SSW of Muncar, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-15T17:14:26.460Z,-10.728,113.857,17.7,4.3,mb,26,148.7,,1.03,us,usp000jscd,2014-11-07T01:48:51.869Z,"257 km SW of Jimbaran, Indonesia",earthquake,,25.7,,9,reviewed,us,us
+2012-09-15T17:01:28.710Z,-10.744,113.801,10,4.3,mb,29,149.2,,1.4,us,usp000jscc,2014-11-07T01:48:51.866Z,"262 km SSW of Muncar, Indonesia",earthquake,,,,11,reviewed,us,us
+2012-09-15T16:32:21.510Z,-10.732,113.865,10,5.7,mww,170,23.1,,1.01,us,usp000jscb,2022-05-03T15:50:12.540Z,"257 km SSW of Jimbaran, Indonesia",earthquake,,,,,reviewed,us,us
+2012-09-15T09:02:59.020Z,-10.701,113.7,24.6,4.2,mb,27,98.8,,1.03,us,usp000jsc0,2014-11-07T01:48:51.801Z,"259 km S of Gambiran Satu, Indonesia",earthquake,,19.2,,7,reviewed,us,us
+2012-09-15T02:05:04.220Z,-10.723,113.661,10,4.2,mb,15,177.1,,0.75,us,usp000jsbe,2014-11-07T01:48:51.731Z,"263 km SSW of Gambiran Satu, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-09-15T01:57:11.930Z,-10.572,113.885,10,4.2,mb,20,137.5,,0.83,us,usp000jsbd,2014-11-07T01:48:51.729Z,"241 km SSW of Muncar, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-09-13T23:40:02.950Z,-10.768,113.755,10,5.4,mb,169,27.3,,0.95,us,usp000js9u,2014-11-07T01:48:51.390Z,"265 km SSW of Muncar, Indonesia",earthquake,,,,69,reviewed,us,us
+2012-09-13T01:40:30.040Z,-10.901,113.98,10,5.1,mb,32,114.1,,1.09,us,usp000js89,2014-11-07T01:48:51.095Z,"266 km SSW of Jimbaran, Indonesia",earthquake,,,,7,reviewed,us,us
+2012-09-11T14:32:09.040Z,-10.712,113.81,21.6,4.4,mb,22,170.9,,0.74,us,usp000js5c,2014-11-07T01:48:50.448Z,"258 km SSW of Muncar, Indonesia",earthquake,,13.6,,2,reviewed,us,us
+2012-09-11T14:21:36.290Z,-10.705,113.832,10,5.3,mb,195,43.1,,0.94,us,usp000js5a,2014-11-07T01:48:50.432Z,"257 km SW of Jimbaran, Indonesia",earthquake,,,,52,reviewed,us,us
+2012-09-11T14:14:56.470Z,-10.794,113.988,18.7,4.2,mb,21,176,,0.63,us,usp000js59,2014-11-07T01:48:50.429Z,"256 km SSW of Jimbaran, Indonesia",earthquake,,22.4,,6,reviewed,us,us
+2012-09-11T14:08:30.870Z,-10.697,113.795,20.5,4.8,mb,53,163.8,,0.79,us,usp000js58,2014-11-07T01:48:50.425Z,"257 km SSW of Muncar, Indonesia",earthquake,,9.8,,13,reviewed,us,us
+2012-09-11T07:48:46.470Z,-10.849,113.924,14.9,4.9,mb,82,56.9,,0.78,us,usp000js4v,2014-11-07T01:48:50.369Z,"264 km SSW of Jimbaran, Indonesia",earthquake,,10.2,,13,reviewed,us,us
+2012-09-11T06:03:35.230Z,-10.926,113.947,10,4.4,mb,26,159.2,,0.93,us,usp000js4q,2014-11-07T01:48:50.312Z,"271 km SSW of Jimbaran, Indonesia",earthquake,,,,5,reviewed,us,us
+2012-09-10T00:38:26.270Z,-10.73,113.97,13.6,4.8,mb,92,37.2,,0.75,us,usp000js2m,2014-11-07T01:48:49.924Z,"251 km SSW of Jimbaran, Indonesia",earthquake,,9,,24,reviewed,us,us
+2012-09-09T09:39:15.020Z,-10.753,113.852,6.3,4.8,mb,76,67,,0.85,us,usp000js1g,2014-11-07T01:48:49.692Z,"260 km SSW of Jimbaran, Indonesia",earthquake,,12.6,,18,reviewed,us,us
+2012-09-08T11:40:51.400Z,-10.887,113.881,10,4.4,mb,32,146.5,,1.17,us,usp000jrzv,2014-11-07T01:48:49.071Z,"270 km SSW of Jimbaran, Indonesia",earthquake,,,,10,reviewed,us,us
+2012-09-08T09:22:17.930Z,-10.852,113.824,10,4.6,mb,34,51.1,,0.89,us,usp000jrzn,2014-11-07T01:48:48.967Z,"271 km SSW of Jimbaran, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-08T07:36:37.630Z,-10.804,113.975,19.1,4.5,mb,80,98.4,,0.89,us,usp000jrzf,2014-11-07T01:48:48.931Z,"257 km SSW of Jimbaran, Indonesia",earthquake,,10.9,,13,reviewed,us,us
+2012-09-08T06:42:35.840Z,-10.898,113.712,10,4.5,mb,43,111.5,,1.21,us,usp000jrz9,2014-11-07T01:48:48.815Z,"281 km SSW of Muncar, Indonesia",earthquake,,,,11,reviewed,us,us
+2012-09-08T06:42:02.680Z,-10.771,113.94,25,4.5,mb,33,67.1,,0.91,us,usp000jrz8,2014-11-07T01:48:48.812Z,"256 km SSW of Jimbaran, Indonesia",earthquake,,16.6,,11,reviewed,us,us
+2012-09-07T19:48:53.110Z,-10.832,113.785,30.7,4.7,mb,65,99.4,,1.11,us,usp000jryb,2014-11-07T01:48:48.695Z,"271 km SW of Jimbaran, Indonesia",earthquake,,13.1,,31,reviewed,us,us
+2012-09-07T17:41:02.010Z,-10.73,113.833,4.8,5.4,mb,283,21.2,,0.91,us,usp000jry1,2014-11-07T01:48:48.551Z,"259 km SW of Jimbaran, Indonesia",earthquake,,9.6,,106,reviewed,us,us
+2012-09-07T14:45:10.730Z,-10.789,113.869,14.9,4.3,mb,38,62.7,,0.89,us,usp000jrxu,2014-11-07T01:48:48.534Z,"262 km SSW of Jimbaran, Indonesia",earthquake,,16.1,,7,reviewed,us,us
+2012-09-07T09:41:26.650Z,-10.847,113.825,10,4.5,mb,47,43.1,,1.08,us,usp000jrxg,2014-11-07T01:48:48.482Z,"270 km SSW of Jimbaran, Indonesia",earthquake,,,,11,reviewed,us,us
+2012-09-07T05:21:09.470Z,-10.809,113.873,23.7,4.6,mb,51,101.4,,1.17,us,usp000jrx5,2014-11-07T01:48:48.416Z,"264 km SSW of Jimbaran, Indonesia",earthquake,,14.6,,15,reviewed,us,us
+2012-09-05T17:47:58.190Z,-10.788,113.899,10,4.6,mb,26,111.5,,0.83,us,usp000jrt6,2014-11-07T01:48:47.744Z,"260 km SSW of Jimbaran, Indonesia",earthquake,,,,5,reviewed,us,us
+2012-09-05T03:01:10.830Z,-10.702,113.906,15,4.4,mb,33,126.8,,1.11,us,usp000jrrh,2014-11-07T01:48:47.437Z,"252 km SSW of Jimbaran, Indonesia",earthquake,,23.8,,9,reviewed,us,us
+2012-09-05T02:06:54.470Z,-10.894,113.737,26.2,4,mb,21,142.6,,0.99,us,usp000jrrc,2014-11-07T01:48:47.427Z,"279 km SSW of Muncar, Indonesia",earthquake,,24.9,,4,reviewed,us,us
+2012-09-05T00:48:04.770Z,-10.803,113.849,18.9,4.9,mb,98,43.1,,0.9,us,usp000jrr3,2014-11-07T01:48:47.397Z,"264 km SSW of Jimbaran, Indonesia",earthquake,,10.6,,31,reviewed,us,us
+2012-09-04T21:19:31.380Z,-10.787,113.988,15,4.9,mb,111,27.7,,0.92,us,usp000jrqf,2014-11-07T01:48:47.296Z,"255 km SSW of Jimbaran, Indonesia",earthquake,,10.1,,45,reviewed,us,us
+2012-09-04T20:00:01.810Z,-10.912,113.845,24.1,4.4,mb,24,147,,1.63,us,usp000jrq7,2014-11-07T01:48:47.269Z,"275 km SSW of Jimbaran, Indonesia",earthquake,,26.6,,5,reviewed,us,us
+2012-09-04T19:52:36.100Z,-10.755,113.827,8.1,4.6,mb,54,101,,1.21,us,usp000jrq6,2014-11-07T01:48:47.264Z,"261 km SW of Jimbaran, Indonesia",earthquake,,18.6,,22,reviewed,us,us
+2012-09-04T15:29:30.500Z,-10.78,113.812,10,4.3,mb,28,101.5,,0.74,us,usp000jrpq,2014-11-07T01:48:47.190Z,"265 km SW of Jimbaran, Indonesia",earthquake,,,,6,reviewed,us,us
+2012-09-04T14:35:12.460Z,-10.861,113.819,9.7,4.5,mb,36,83.8,,1.25,us,usp000jrpg,2014-11-07T01:48:47.123Z,"272 km SSW of Jimbaran, Indonesia",earthquake,,22.2,,7,reviewed,us,us
+2012-09-04T14:08:24.430Z,-10.756,113.884,8.1,4.4,mb,31,101,,1.08,us,usp000jrpf,2014-11-07T01:48:47.120Z,"258 km SSW of Jimbaran, Indonesia",earthquake,,20.6,,8,reviewed,us,us
+2012-09-04T13:42:12.330Z,-10.823,113.884,18.5,4.7,mb,101,30.5,,0.83,us,usp000jrpc,2014-11-07T01:48:47.104Z,"264 km SSW of Jimbaran, Indonesia",earthquake,,9.9,,29,reviewed,us,us
+2012-09-04T13:40:08.920Z,-10.697,113.884,9,4.5,mb,32,170.4,,0.89,us,usp000jrpb,2014-11-07T01:48:47.100Z,"253 km SSW of Jimbaran, Indonesia",earthquake,,15.4,,6,reviewed,us,us
+2012-09-04T13:31:04.180Z,-10.652,113.911,14.1,5.2,mb,185,43.1,,0.87,us,usp000jrp9,2014-11-07T01:48:47.080Z,"247 km SW of Jimbaran, Indonesia",earthquake,,8.2,,45,reviewed,us,us
+2012-09-04T12:49:05.940Z,-10.818,113.879,10,4.8,mb,80,43.1,,0.74,us,usp000jrp6,2014-11-07T01:48:47.065Z,"264 km SSW of Jimbaran, Indonesia",earthquake,,,,18,reviewed,us,us
+2012-09-04T12:07:26.630Z,-10.771,113.822,10,5.2,mb,241,27.4,,0.95,us,usp000jrp3,2014-11-07T01:48:47.030Z,"263 km SW of Jimbaran, Indonesia",earthquake,,,,61,reviewed,us,us
+2012-09-04T11:38:14.900Z,-10.879,113.858,10,4.6,mb,70,45.7,,1,us,usp000jrp0,2014-11-07T01:48:47.020Z,"271 km SSW of Jimbaran, Indonesia",earthquake,,,,16,reviewed,us,us
+2012-09-04T04:27:13.020Z,-10.839,113.962,10,5,mb,252,27.7,,1.11,us,usp000jrn2,2014-11-07T01:48:46.781Z,"261 km SSW of Jimbaran, Indonesia",earthquake,,,,42,reviewed,us,us
+2012-09-04T00:08:24.830Z,-10.844,113.943,10,4.7,mb,61,56.9,,0.76,us,usp000jrmc,2014-11-07T01:48:46.653Z,"263 km SSW of Jimbaran, Indonesia",earthquake,,,,7,reviewed,us,us
+2012-09-03T18:50:05.390Z,-10.834,113.795,10,4.8,mb,12,206.9,,1.18,us,usp000jrku,2014-11-07T01:48:46.581Z,"271 km SSW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-09-03T18:23:05.230Z,-10.708,113.931,14,6.1,mww,389,15.5,,1.06,us,usp000jrkr,2022-05-03T15:49:15.603Z,"251 km SSW of Jimbaran, Indonesia",earthquake,,,,,reviewed,us,us
+2012-09-03T14:48:02.870Z,-10.72,113.945,10,4.6,mb,42,100.5,,1.06,us,usp000jrk9,2014-11-07T01:48:46.460Z,"251 km SSW of Jimbaran, Indonesia",earthquake,,,,10,reviewed,us,us
+2012-09-03T14:26:43.350Z,-10.74,113.918,19.1,4.9,mb,189,27.5,,0.74,us,usp000jrk8,2014-11-07T01:48:46.443Z,"255 km SSW of Jimbaran, Indonesia",earthquake,,7.5,,34,reviewed,us,us
+2012-08-12T13:18:32.040Z,-10.41,111.063,41.5,4.7,mb,19,168,,1.28,us,usp000jq7t,2014-11-07T01:48:33.509Z,"267 km SSW of Trenggalek, Indonesia",earthquake,,10.9,,5,reviewed,us,us
+2012-08-07T14:32:13.690Z,-9.284,112.437,50.6,4.5,mb,63,78.6,,1.02,us,usp000jq0d,2014-11-07T01:48:31.638Z,"123 km SSW of Dampit, Indonesia",earthquake,,5.6,,7,reviewed,us,us
+2012-07-31T14:43:41.000Z,-9.196,113.362,46.1,4.3,mb,33,97.7,,0.85,us,usp000jppq,2014-11-07T01:48:25.542Z,"100 km S of Kencong, Indonesia",earthquake,,6.8,,7,reviewed,us,us
+2012-07-18T21:42:56.630Z,-10.371,112.534,10,4,mb,10,186.8,,1.22,us,usp000jp65,2014-11-07T01:48:21.118Z,"240 km S of Dampit, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-07-14T04:25:29.490Z,-9.724,112.913,35,4,mb,11,186,,1.27,us,usp000jnzx,2014-11-07T01:48:19.783Z,"166 km SSW of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2012-07-13T01:32:02.290Z,-9.64,113.028,35,4,mb,20,127.8,,1.11,us,usp000jnyc,2014-11-07T01:48:19.329Z,"154 km SSW of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2012-06-28T12:10:05.370Z,-9.573,113.07,43.7,4.6,mb,48,120.6,,0.9,us,usp000jnbk,2014-11-07T01:48:10.068Z,"146 km SSW of Kencong, Indonesia",earthquake,,6,,9,reviewed,us,us
+2012-06-28T11:37:01.170Z,-9.542,113.057,40.3,4.8,mb,70,120.3,,0.98,us,usp000jnbh,2014-11-07T01:48:10.049Z,"143 km SSW of Kencong, Indonesia",earthquake,,5.3,,15,reviewed,us,us
+2012-06-18T14:01:19.900Z,-10.589,113.655,66,4.2,mb,21,111.6,,0.93,us,usp000jmxn,2014-11-07T01:48:06.662Z,"248 km SSW of Gambiran Satu, Indonesia",earthquake,,23.7,,2,reviewed,us,us
+2012-04-20T21:45:29.330Z,-9.891,113.536,55.1,4.4,mb,34,226.2,,1.16,us,usp000jjad,2014-11-07T01:47:35.070Z,"south of Java, Indonesia",earthquake,,11.2,,13,reviewed,us,us
+2012-04-14T17:11:44.270Z,-10.837,112.58,35,4.5,mb,48,102.7,,1.39,us,usp000jhyx,2014-11-07T01:47:31.637Z,"290 km S of Dampit, Indonesia",earthquake,,,,11,reviewed,us,us
+2012-04-11T16:21:47.000Z,-10.559,113.731,22.1,4.9,mb,100,59.3,,0.94,us,usp000jhmt,2014-11-07T01:47:29.128Z,"243 km S of Gambiran Satu, Indonesia",earthquake,,8.4,,28,reviewed,us,us
+2012-03-28T23:09:46.650Z,-9.268,113.501,55.2,4.8,mb,63,75.7,,0.99,us,usp000jgxg,2014-11-07T01:47:20.153Z,"109 km S of Kencong, Indonesia",earthquake,,4.8,,25,reviewed,us,us
+2012-03-10T19:19:40.890Z,-10.777,113.426,31.1,4.5,mb,66,145.5,,0.67,us,usp000jg27,2014-11-07T01:47:13.488Z,"275 km SSW of Gambiran Satu, Indonesia",earthquake,,3.9,,19,reviewed,us,us
+2012-03-09T21:27:09.780Z,-9.024,113.018,76.6,4.4,mb,43,61.8,,0.7,us,usp000jg0f,2014-11-07T01:47:13.158Z,"90 km SSW of Kencong, Indonesia",earthquake,,4.6,,8,reviewed,us,us
+2012-01-23T04:16:06.210Z,-9.461,113.351,56.8,4.6,mb,44,46.6,,0.95,us,usp000jdva,2014-11-07T01:46:49.627Z,"south of Java, Indonesia",earthquake,,5.9,,13,reviewed,us,us
+2012-01-14T20:10:16.070Z,-10.148,110.42,34.9,4.2,mb,25,141.6,,1.15,us,usp000jdgt,2014-11-07T01:46:47.218Z,"242 km S of Pundong, Indonesia",earthquake,,18.6,,8,reviewed,us,us
+2011-11-18T12:23:55.220Z,-10.775,113.745,40,4.8,mwc,74,43.2,,1.23,us,usp000jb28,2014-11-07T01:46:22.533Z,"266 km SSW of Muncar, Indonesia",earthquake,,0,,,reviewed,us,gcmt
+2011-09-29T17:25:28.630Z,-10.664,113.892,20.2,4.8,mb,39,43.1,,0.99,us,usp000j8r1,2014-11-07T01:45:58.143Z,"249 km SW of Jimbaran, Indonesia",earthquake,,15,,9,reviewed,us,us
+2011-07-16T14:25:37.440Z,-9.017,111.219,58,4.4,mb,23,71.6,,1.21,us,usp000j515,2014-11-07T01:45:22.635Z,"117 km SSW of Trenggalek, Indonesia",earthquake,,8.9,,4,reviewed,us,us
+2011-06-29T11:35:55.140Z,-9.577,113.759,41,4.4,mb,32,43.2,,0.85,us,usp000j3xz,2014-11-07T01:45:11.752Z,"137 km SSW of Gambiran Satu, Indonesia",earthquake,,6.6,,6,reviewed,us,us
+2011-06-19T16:35:45.910Z,-9.499,112.838,49.2,4.3,mb,16,156.8,,1.12,us,usp000j3ed,2014-11-07T01:45:07.318Z,"142 km S of Dampit, Indonesia",earthquake,,12.4,,2,reviewed,us,us
+2011-05-18T05:01:39.470Z,-9.292,112.561,35,5.1,mb,124,43.6,,1.1,us,usp000j1s4,2022-07-19T15:29:36.105Z,"121 km S of Dampit, Indonesia",earthquake,,,,36,reviewed,us,us
+2011-05-17T00:14:57.650Z,-9.203,112.585,28,5.7,mww,345,24.3,,1.12,us,usp000j1q5,2022-07-19T15:24:55.790Z,"111 km S of Dampit, Indonesia",earthquake,,,,,reviewed,us,us
+2011-04-22T05:18:02.820Z,-9.17,110.621,106,4,mb,15,184.9,,0.67,us,usp000j0da,2014-11-07T01:44:36.342Z,"137 km SSE of Pundong, Indonesia",earthquake,,9.2,,5,reviewed,us,us
+2011-04-22T03:34:22.230Z,-9.219,110.405,60.5,4.2,mb,19,178.1,,0.73,us,usp000j0d5,2014-11-07T01:44:36.305Z,"140 km S of Pundong, Indonesia",earthquake,,10.3,,6,reviewed,us,us
+2011-04-05T13:52:53.820Z,-9.678,112.779,43,4.1,mb,13,142.4,,1.7,us,usp000hzbb,2014-11-07T01:44:28.783Z,"162 km S of Dampit, Indonesia",earthquake,,14.6,,2,reviewed,us,us
+2011-02-22T18:56:20.360Z,-9.403,112.048,34.7,4.4,mb,22,159.8,,0.76,us,usp000huy0,2014-11-07T01:43:42.948Z,"143 km S of Boyolangu, Indonesia",earthquake,,19.8,,10,reviewed,us,us
+2011-02-14T11:43:55.540Z,-10.06,113.795,48,4.9,mb,86,81.2,,1.29,us,usp000hugz,2022-07-19T04:11:44.264Z,"188 km SSW of Gambiran Satu, Indonesia",earthquake,,6.7,,32,reviewed,us,us
+2011-02-08T15:27:00.080Z,-9.996,113.88,50.3,5.2,mwc,140,37.7,,1.08,us,usp000hu7x,2022-07-19T03:43:51.266Z,"south of Java, Indonesia",earthquake,,4.2,,,reviewed,us,gcmt
+2011-01-31T16:47:16.530Z,-9.237,110.635,49.8,4.1,mb,13,168.1,,1.06,us,usp000htx0,2014-11-07T01:43:32.044Z,"south of Java, Indonesia",earthquake,,12.9,,2,reviewed,us,us
+2011-01-03T21:24:26.060Z,-10.318,113.313,25.6,4.5,mb,60,39,,1.35,us,usp000hsj5,2014-11-07T01:43:21.099Z,"225 km S of Kencong, Indonesia",earthquake,,14.7,,16,reviewed,us,us
+2010-10-01T01:24:26.100Z,-10.925,113.794,15.4,5.3,mwc,197,23.2,,0.94,us,usp000hme4,2022-07-18T21:12:59.417Z,"279 km SSW of Jimbaran, Indonesia",earthquake,,9.8,,,reviewed,us,gcmt
+2010-09-23T07:16:08.010Z,-9.153,113.987,79.8,4.1,mb,10,180.9,,0.71,us,usp000hm3b,2014-11-07T01:42:30.269Z,"85 km SSW of Gambiran Satu, Indonesia",earthquake,,12.7,,2,reviewed,us,us
+2010-07-26T04:54:58.310Z,-10.356,112.172,17.2,4.8,mb,59,26,,1.03,us,usp000hgua,2014-11-07T01:42:02.017Z,"245 km S of Sumberpucung, Indonesia",earthquake,,14.4,,17,reviewed,us,us
+2010-07-19T05:18:05.260Z,-9.049,110.536,35,4,mb,16,128.9,,0.84,us,usp000hfte,2014-11-07T01:41:55.647Z,"123 km S of Pundong, Indonesia",earthquake,,,,3,reviewed,us,us
+2010-06-15T21:51:21.080Z,-9.286,113.554,66.3,4.7,mb,41,51.8,,0.83,us,usp000he2r,2014-11-07T01:41:41.677Z,"112 km S of Kencong, Indonesia",earthquake,,5.6,,15,reviewed,us,us
+2010-06-04T16:47:27.770Z,-9.001,112.427,34.1,4.8,mb,7,197.8,,1.2,us,usp000hdkc,2014-11-07T01:41:38.636Z,"93 km S of Sumberpucung, Indonesia",earthquake,,46.7,,1,reviewed,us,us
+2010-05-26T15:55:57.240Z,-9.262,113.588,66.1,4.8,mb,75,38.3,,1.03,us,usp000hd6y,2014-11-07T01:41:33.173Z,"110 km SSE of Kencong, Indonesia",earthquake,,5.8,,26,reviewed,us,us
+2010-05-21T19:56:53.860Z,-9.463,112.844,51.3,4.6,mb,84,24.7,,1.2,us,usp000hd0u,2014-11-07T01:41:31.005Z,"138 km S of Dampit, Indonesia",earthquake,,5.6,,29,reviewed,us,us
+2010-05-07T04:33:21.370Z,-9.163,113.1,59.9,4.7,mb,28,90.1,,0.96,us,usp000hce9,2014-11-07T01:41:27.541Z,"101 km SSW of Kencong, Indonesia",earthquake,,6.6,,7,reviewed,us,us
+2010-04-02T04:07:36.100Z,-9.162,112.811,51.9,4.4,mb,29,39.9,,1.31,us,usp000ha7y,2014-11-07T01:41:09.799Z,"105 km S of Dampit, Indonesia",earthquake,,8.5,,5,reviewed,us,us
+2010-03-26T08:09:55.790Z,-9.067,110.545,35,4.4,mb,24,73.4,,0.76,us,usp000h9zx,2014-11-07T01:41:05.735Z,"125 km S of Pundong, Indonesia",earthquake,,,,5,reviewed,us,us
+2010-02-11T18:43:09.710Z,-9.905,113.845,51,5.8,mwc,359,30.3,,1.18,us,usp000h76j,2022-07-16T02:21:44.084Z,"170 km S of Gambiran Satu, Indonesia",earthquake,,3.3,,,reviewed,us,gcmt
+2010-02-10T06:33:44.260Z,-9.26,111.025,35,5,mb,32,178.2,,1.22,us,usp000h74s,2014-11-07T01:40:41.481Z,"150 km SSW of Trenggalek, Indonesia",earthquake,,,,12,reviewed,us,us
+2010-01-18T10:18:08.290Z,-9.724,113.912,41.7,4.3,mb,19,156.1,,0.44,us,usp000h69p,2014-11-07T01:40:30.032Z,"149 km S of Gambiran Satu, Indonesia",earthquake,,9.7,,2,reviewed,us,us
+2009-11-05T08:06:42.070Z,-10.605,110.094,35,4.1,mb,15,137.9,,0.47,us,usp000h3s4,2014-11-07T01:40:04.576Z,"294 km S of Bambanglipuro, Indonesia",earthquake,,,,2,reviewed,us,us
+2009-09-07T16:12:22.560Z,-10.198,110.628,23,6.2,mwc,349,21.6,,0.81,us,usp000h1af,2022-07-15T17:21:58.295Z,"250 km S of Pundong, Indonesia",earthquake,,,,,reviewed,us,us
+2009-08-13T10:48:17.960Z,-9.009,111.23,35,4,mb,27,113.7,,0.89,us,usp000h09v,2014-11-07T01:39:30.298Z,"south of Java, Indonesia",earthquake,,,,3,reviewed,us,us
+2009-08-01T05:06:19.380Z,-9.106,113.275,50.1,4.4,mb,35,57,,0.79,us,usp000gzvn,2014-11-07T01:39:25.190Z,"91 km S of Kencong, Indonesia",earthquake,,8,,7,reviewed,us,us
+2009-03-09T12:53:15.860Z,-9.818,112.957,35,4.9,mb,40,94,,0.9,us,usp000gust,2014-11-07T01:38:33.507Z,"175 km SSW of Kencong, Indonesia",earthquake,,,,13,reviewed,us,us
+2008-12-11T13:57:03.720Z,-9.492,113.831,41.4,4.8,mb,23,175.6,,0.75,us,usp000gqd5,2014-11-07T01:37:57.267Z,"126 km SSW of Gambiran Satu, Indonesia",earthquake,,18.3,,10,reviewed,us,us
+2008-11-22T16:53:02.960Z,-9.617,112.751,35,4.5,mb,32,122.4,,1.1,us,usp000gp7d,2014-11-07T01:37:46.717Z,"155 km S of Dampit, Indonesia",earthquake,,,,11,reviewed,us,us
+2008-09-29T09:36:30.230Z,-9.782,113.383,35,4.2,mb,11,111.8,,0.87,us,usp000ghxy,2014-11-07T01:37:16.292Z,"165 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2008-07-02T13:24:47.320Z,-10.429,113.579,10,4.2,mb,21,111.7,,1.18,us,usp000gb5d,2014-11-07T01:36:32.852Z,"233 km SSW of Gambiran Satu, Indonesia",earthquake,,,,2,reviewed,us,us
+2008-06-19T10:48:15.230Z,-10.724,111.97,35,4.8,mb,64,56,,0.84,us,usp000ga2p,2014-11-07T01:36:23.222Z,"288 km S of Boyolangu, Indonesia",earthquake,,,,11,reviewed,us,us
+2008-06-12T17:31:32.190Z,-9.91,113.204,10,4.6,mb,15,159.2,,0.84,us,usp000g9c6,2014-11-07T01:36:20.230Z,"180 km S of Kencong, Indonesia",earthquake,,0,,2,reviewed,us,us
+2008-06-12T05:19:57.410Z,-9.379,112.769,51.9,5.2,mb,81,43.6,,1.13,us,usp000g9ae,2014-11-07T01:36:19.660Z,"129 km S of Dampit, Indonesia",earthquake,,,,42,reviewed,us,us
+2008-06-08T14:22:10.440Z,-9.002,113.352,10,4,mb,10,191.9,,0.84,us,usp000g8wj,2014-11-07T01:36:16.441Z,"79 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2008-03-31T15:37:12.400Z,-9.831,112.523,35,4.1,mb,6,178.1,,0.74,us,usp000g2tp,2014-11-07T01:35:22.254Z,"180 km S of Dampit, Indonesia",earthquake,,,,1,reviewed,us,us
+2008-03-31T13:51:21.140Z,-9.163,111.91,27.9,5.1,mb,36,87.5,,0.79,us,usp000g2th,2014-11-07T01:35:22.225Z,"115 km S of Boyolangu, Indonesia",earthquake,,17.6,,15,reviewed,us,us
+2008-02-14T06:26:29.810Z,-9.411,112.865,10,4.5,mb,10,185.5,,0.73,us,usp000fyvs,2014-11-07T01:34:56.867Z,"133 km S of Dampit, Indonesia",earthquake,,,,2,reviewed,us,us
+2008-02-11T05:12:36.890Z,-10.998,113.741,35,4.8,mb,24,128.5,,1.22,us,usp000fynb,2014-11-07T01:34:55.908Z,"289 km SSW of Jimbaran, Indonesia",earthquake,,,,13,reviewed,us,us
+2008-02-04T19:36:04.060Z,-9.178,113.47,39.2,4.2,mb,15,138.5,,0.45,us,usp000fy5w,2014-11-07T01:34:53.818Z,"99 km S of Kencong, Indonesia",earthquake,,22.5,,2,reviewed,us,us
+2008-01-30T22:07:07.820Z,-9.474,113.872,64,4.6,mb,67,48.5,,1.26,us,usp000fxtq,2014-11-07T01:34:47.189Z,"123 km SSW of Gambiran Satu, Indonesia",earthquake,,9.9,,21,reviewed,us,us
+2008-01-11T04:43:51.530Z,-10.612,113.344,15,4.8,mwc,81,58.2,,0.88,us,usp000fwey,2016-11-10T01:50:35.530Z,"257 km S of Kencong, Indonesia",earthquake,,16.7,,,reviewed,us,gcmt
+2008-01-10T19:45:00.680Z,-10.651,113.291,32.6,4.9,mwc,54,64.2,,0.93,us,usp000fwdz,2016-11-10T01:50:34.001Z,"262 km S of Kencong, Indonesia",earthquake,,21.2,,,reviewed,us,gcmt
+2007-12-17T12:46:14.650Z,-10.755,113.355,10,5.3,mwc,86,43.3,,0.96,us,usp000fumx,2016-11-10T01:49:40.281Z,"273 km S of Kencong, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-12-17T00:09:37.220Z,-9.215,112.385,48,5,mwc,152,32.4,,0.98,us,usp000fukn,2022-07-14T00:00:40.039Z,"117 km S of Sumberpucung, Indonesia",earthquake,,7.5,,,reviewed,us,gcmt
+2007-12-07T10:45:53.720Z,-9.979,113.472,10,5.3,mwc,87,39.9,,1.03,us,usp000ftzn,2022-07-14T00:13:47.301Z,"187 km S of Kencong, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-11-13T05:31:13.640Z,-9.241,113.464,35,4.7,mb,33,110.6,,0.96,us,usp000fsfa,2014-11-07T01:34:09.968Z,"106 km S of Kencong, Indonesia",earthquake,,,,14,reviewed,us,us
+2007-08-29T18:49:22.520Z,-10.703,112.386,10,4.4,mb,15,74.6,,0.99,us,usp000fkyt,2014-11-07T01:33:24.346Z,"278 km S of Dampit, Indonesia",earthquake,,,,3,reviewed,us,us
+2007-07-30T03:43:34.780Z,-9.505,110.806,11.9,4.7,mb,24,86.2,,1.04,us,usp000fhdv,2014-11-07T01:33:05.292Z,"178 km SSE of Pundong, Indonesia",earthquake,,28,,6,reviewed,us,us
+2007-07-09T15:29:11.040Z,-9.439,111.699,10,4.9,mb,23,112.3,,1.17,us,usp000ffvb,2014-11-07T01:32:55.984Z,"147 km S of Boyolangu, Indonesia",earthquake,,,,7,reviewed,us,us
+2007-07-08T04:29:41.840Z,-9.426,112.951,35,4.4,mb,13,193.8,,1.1,us,usp000ffqx,2014-11-07T01:32:55.452Z,"134 km SSW of Kencong, Indonesia",earthquake,,,,4,reviewed,us,us
+2007-06-23T07:47:44.170Z,-9.006,110.694,10,4.9,mb,51,82.4,,0.88,us,usp000femf,2014-11-07T01:32:45.074Z,"122 km SSE of Pundong, Indonesia",earthquake,,,,9,reviewed,us,us
+2007-06-11T20:37:46.430Z,-9.215,112.03,10,4.9,mb,21,185.6,,0.92,us,usp000fdun,2014-11-07T01:32:41.242Z,"122 km S of Boyolangu, Indonesia",earthquake,,,,10,reviewed,us,us
+2007-05-06T04:03:49.290Z,-9.466,112.905,10,4.2,mb,18,176.1,,1,us,usp000fbby,2014-11-07T01:32:24.868Z,"139 km S of Dampit, Indonesia",earthquake,,,,5,reviewed,us,us
+2007-04-13T15:00:23.140Z,-9.053,111.283,10,4.1,mb,14,124.5,,1.48,us,usp000f9mb,2014-11-07T01:32:11.645Z,"117 km SSW of Trenggalek, Indonesia",earthquake,,,,5,reviewed,us,us
+2007-01-28T21:11:25.400Z,-9.417,111.692,10,4.2,mb,19,142,,0.85,us,usp000f3uh,2014-11-07T01:31:28.549Z,"145 km S of Boyolangu, Indonesia",earthquake,,,,7,reviewed,us,us
+2006-12-29T06:26:49.040Z,-10.701,113.855,10,5.2,mb,71,43.1,,0.78,us,usp000f18a,2014-11-07T01:31:12.940Z,"255 km SW of Jimbaran, Indonesia",earthquake,,,,30,reviewed,us,us
+2006-09-21T23:01:26.940Z,-9.041,110.646,10,4.2,mb,24,66.5,,1.31,us,usp000etj2,2014-11-07T01:30:15.693Z,"124 km SSE of Pundong, Indonesia",earthquake,,,,7,reviewed,us,us
+2006-09-21T19:46:49.770Z,-9.044,110.529,10,4.6,mb,15,90.1,,0.51,us,usp000etht,2014-11-07T01:30:15.659Z,"122 km S of Pundong, Indonesia",earthquake,,,,5,reviewed,us,us
+2006-09-21T19:31:40.230Z,-9.047,110.535,10,4.6,mb,10,178.4,,0.48,us,usp000ethr,2014-11-07T01:30:15.655Z,"122 km S of Pundong, Indonesia",earthquake,,,,1,reviewed,us,us
+2006-09-21T18:54:50.050Z,-9.05,110.365,25,6,mwc,237,24.2,,1.13,us,usp000ethq,2022-07-14T09:55:19.300Z,"121 km S of Pundong, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2006-09-21T18:13:08.140Z,-9.024,110.555,10,4.1,mb,16,141.3,,1.15,us,usp000ethk,2014-11-07T01:30:15.610Z,"120 km S of Pundong, Indonesia",earthquake,,,,4,reviewed,us,us
+2006-08-07T12:11:05.840Z,-9.236,113.118,10,4.4,mb,11,192.7,,1.09,us,usp000eqe6,2014-11-07T01:29:55.248Z,"108 km SSW of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2006-07-19T10:09:43.950Z,-10.835,112.099,21.8,4.8,mb,33,102.9,,0.56,us,usp000ep33,2014-11-07T01:29:43.209Z,"298 km SSW of Dampit, Indonesia",earthquake,,20.9,,14,reviewed,us,us
+2006-07-11T02:11:40.030Z,-9.107,111.086,35,4.4,mb,14,174.8,,1.34,us,usp000enc3,2014-11-07T01:29:37.780Z,"132 km SSW of Trenggalek, Indonesia",earthquake,,,,3,reviewed,us,us
+2006-05-20T06:15:43.400Z,-9.988,112.029,39.7,5,mb,18,130.9,,1.03,us,usp000ehj2,2014-11-07T01:29:09.059Z,"207 km S of Boyolangu, Indonesia",earthquake,,,,6,reviewed,us,us
+2006-04-27T23:23:17.760Z,-9.806,110.102,35,4,mb,14,169.2,,0.99,us,usp000efnb,2014-11-07T01:28:55.632Z,"206 km S of Bambanglipuro, Indonesia",earthquake,,,,2,reviewed,us,us
+2006-04-24T20:05:23.870Z,-9.392,113.111,37.4,4.9,mwc,43,80.6,,0.97,us,usp000efes,2016-11-10T01:21:03.330Z,"125 km SSW of Kencong, Indonesia",earthquake,,11.1,,,reviewed,us,hrv
+2006-04-13T18:32:11.060Z,-9.058,111.351,10,4.4,mb,24,177.7,,0.75,us,usp000eeee,2014-11-07T01:28:49.952Z,"115 km SSW of Trenggalek, Indonesia",earthquake,,,,6,reviewed,us,us
+2006-03-27T19:44:45.390Z,-10.769,111.547,10,4.3,mb,9,167.3,,1.16,us,usp000ed2y,2014-11-07T01:28:36.180Z,"295 km S of Boyolangu, Indonesia",earthquake,,,,1,reviewed,us,us
+2006-01-24T04:47:41.590Z,-10.156,110.516,41.9,4.7,mb,22,128.3,,0.71,us,usp000e8s8,2014-11-07T01:28:09.216Z,"244 km S of Pundong, Indonesia",earthquake,,,,3,reviewed,us,us
+2006-01-07T19:20:35.470Z,-9.703,112.568,27.4,4.7,mb,23,138.5,,0.79,us,usp000e7sy,2014-11-07T01:28:04.660Z,"166 km S of Dampit, Indonesia",earthquake,,35.9,,10,reviewed,us,us
+2005-12-29T14:56:14.400Z,-10.43,112.006,82.1,4.6,mb,28,130.7,,0.92,us,usp000e75w,2014-11-07T01:27:58.135Z,"256 km S of Boyolangu, Indonesia",earthquake,,18,,14,reviewed,us,us
+2005-11-28T04:32:14.290Z,-9.196,113.872,30,4.4,mb,18,118.7,,0.63,us,usp000e52b,2014-11-07T01:27:44.667Z,"93 km SSW of Gambiran Satu, Indonesia",earthquake,,,,3,reviewed,us,us
+2005-11-01T14:35:07.630Z,-9.263,112.109,35,4.7,mb,8,123.4,,1.42,us,usp000e39y,2014-11-07T01:27:33.325Z,"128 km S of Ngunut, Indonesia",earthquake,,,,3,reviewed,us,us
+2005-10-10T14:45:53.640Z,-10.732,111.87,35,4.3,mb,10,166,,0.73,us,usp000e1hg,2014-11-07T01:27:22.153Z,"289 km S of Boyolangu, Indonesia",earthquake,,,,3,reviewed,us,us
+2005-09-30T14:37:09.520Z,-10.507,111.852,34.3,4.7,mb,35,76.9,,0.91,us,usp000e0k8,2014-11-07T01:27:11.822Z,"264 km S of Boyolangu, Indonesia",earthquake,,,,19,reviewed,us,us
+2005-09-30T11:54:53.900Z,-10.824,111.729,40,4,mb,8,166.8,,1.3,us,usp000e0jz,2014-11-07T01:27:11.800Z,"299 km S of Boyolangu, Indonesia",earthquake,,0,,1,reviewed,us,us
+2005-09-28T00:43:57.030Z,-10.433,111.979,40,4.6,mb,17,178.5,,0.91,us,usp000e0dj,2014-11-07T01:27:10.872Z,"256 km S of Boyolangu, Indonesia",earthquake,,0,,3,reviewed,us,us
+2005-09-27T18:21:48.270Z,-10.52,111.872,35.1,4.7,mb,30,112.1,,1.08,us,usp000e0cz,2014-11-07T01:27:10.790Z,"265 km S of Boyolangu, Indonesia",earthquake,,,,13,reviewed,us,us
+2005-09-27T11:16:25.760Z,-10.585,111.945,10,4.8,mb,24,89.4,,0.91,us,usp000e0ca,2014-11-07T01:27:10.726Z,"272 km S of Boyolangu, Indonesia",earthquake,,,,7,reviewed,us,us
+2005-09-25T17:02:04.070Z,-10.433,112.032,20,4.4,mb,9,178.4,,0.5,us,usp000e084,2014-11-07T01:27:09.597Z,"256 km S of Sumberpucung, Indonesia",earthquake,,,,1,reviewed,us,us
+2005-08-06T22:58:50.670Z,-9.089,113.286,25,4.8,mb,16,138.8,,1.12,us,usp000dwuw,2014-11-07T01:26:45.331Z,"89 km S of Kencong, Indonesia",earthquake,,0,,7,reviewed,us,us
+2005-04-24T10:06:12.690Z,-9.593,111.861,40.9,4.8,mwc,63,48.7,,1.11,us,usp000dp4a,2016-11-10T01:05:17.495Z,"163 km S of Boyolangu, Indonesia",earthquake,,6.6,,,reviewed,us,hrv
+2005-04-24T09:32:21.680Z,-9.575,111.887,39,4.8,mwc,102,38.7,,1.12,us,usp000dp48,2016-11-10T01:05:17.008Z,"161 km S of Boyolangu, Indonesia",earthquake,,6.1,,,reviewed,us,hrv
+2005-04-24T08:42:07.780Z,-9.58,111.965,20,4.6,mb,19,140.9,,0.92,us,usp000dp44,2014-11-07T01:25:40.246Z,"161 km S of Boyolangu, Indonesia",earthquake,,0,,5,reviewed,us,us
+2005-04-06T14:04:43.870Z,-9.352,113.051,25,4.4,mb,13,202.2,,0.87,us,usp000dme2,2014-11-07T01:25:29.979Z,"123 km SSW of Kencong, Indonesia",earthquake,,0,,1,reviewed,us,us
+2005-02-28T08:53:04.010Z,-9.713,112.719,32.7,4.2,mb,14,200.3,,0.71,us,usp000dh5p,2014-11-07T01:25:05.447Z,"166 km S of Dampit, Indonesia",earthquake,,59.2,,5,reviewed,us,us
+2005-01-24T19:05:33.140Z,-10.482,113.883,57.4,4.3,mb,14,198,,0.78,us,usp000de7z,2014-11-07T01:24:44.124Z,"231 km SSW of Muncar, Indonesia",earthquake,,44.7,,5,reviewed,us,us
+2005-01-22T23:46:37.730Z,-9.701,112.737,35,4.4,mb,18,160.5,,1.06,us,usp000de1p,2014-11-07T01:24:43.128Z,"164 km S of Dampit, Indonesia",earthquake,,,,7,reviewed,us,us
+2005-01-04T10:16:42.140Z,-10.924,113.198,10,4.4,mb,5,212.8,,0.98,us,usp000dchn,2014-11-07T01:24:33.844Z,"292 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-14T07:32:05.450Z,-9.05,111.243,10,4.2,mb,8,182.6,,1.28,us,usp000danw,2014-11-07T01:24:16.747Z,"119 km SSW of Trenggalek, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-12-07T23:29:04.070Z,-9.317,113.08,25,4.3,mb,11,131.8,,0.98,us,usp000da9n,2014-11-07T01:24:14.995Z,"118 km SSW of Kencong, Indonesia",earthquake,,0,,4,reviewed,us,us
+2004-11-03T03:07:44.630Z,-10.712,112.677,11.1,4.9,mwc,81,55,,0.97,us,usp000d7k1,2016-11-10T00:50:49.982Z,"276 km S of Dampit, Indonesia",earthquake,,14.4,,,reviewed,us,hrv
+2004-10-05T04:18:25.930Z,-9.975,111.423,36.6,4,mb,7,192.5,,1.3,us,usp000d5t2,2014-11-07T01:23:42.042Z,"211 km SSW of Boyolangu, Indonesia",earthquake,,,,3,reviewed,us,us
+2004-08-26T18:01:36.280Z,-9.091,111.682,80.5,4.3,mb,24,64,,0.84,us,usp000d2x5,2014-11-07T01:23:16.062Z,"110 km SSW of Boyolangu, Indonesia",earthquake,,16.3,,11,reviewed,us,us
+2004-07-01T13:53:32.080Z,-9.129,111.018,25,4.5,mb,20,178,,0.92,us,usp000czbs,2014-11-07T01:22:48.178Z,"138 km S of Jatiroto, Indonesia",earthquake,,,,5,reviewed,us,us
+2004-06-19T21:27:26.630Z,-10.938,113.857,10,4.5,mb,8,203,,1.05,us,usp000cy98,2014-11-07T01:22:39.051Z,"277 km SSW of Jimbaran, Indonesia",earthquake,,,,2,reviewed,us,us
+2004-06-17T02:09:17.820Z,-10.027,113.264,40,4.6,mb,9,209.5,,1.64,us,usp000cy2f,2014-11-07T01:22:38.412Z,"193 km S of Kencong, Indonesia",earthquake,,0,,2,reviewed,us,us
+2004-06-01T20:46:56.810Z,-9.507,113.004,60,4.2,mb,10,199.3,,1.24,us,usp000cwve,2014-11-07T01:22:30.306Z,"141 km SSW of Kencong, Indonesia",earthquake,,0,,2,reviewed,us,us
+2004-05-31T18:58:29.810Z,-9.617,112.878,60,4.4,mb,9,206.3,,1.23,us,usp000cwrp,2014-11-07T01:22:26.759Z,"156 km S of Dampit, Indonesia",earthquake,,0,,2,reviewed,us,us
+2004-05-16T17:01:26.780Z,-9.246,113.015,62.6,4,mb,18,139.5,,0.89,us,usp000cv83,2014-11-07T01:22:19.940Z,"113 km SSW of Kencong, Indonesia",earthquake,,21.4,,2,reviewed,us,us
+2004-05-11T13:50:50.930Z,-10.904,113.329,10,4.5,mb,7,211.1,,0.68,us,usp000curq,2014-11-07T01:22:17.308Z,"289 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2004-04-05T22:41:01.190Z,-10.499,113.701,40,4.7,mb,20,139.2,,1.35,us,usp000crt9,2014-11-07T01:21:55.173Z,"237 km SSW of Gambiran Satu, Indonesia",earthquake,,0,,3,reviewed,us,us
+2004-04-01T00:10:51.550Z,-9.897,110.558,25,4.6,mb,10,205.9,,1.08,us,usp000crd9,2014-11-07T01:21:50.949Z,"216 km S of Pundong, Indonesia",earthquake,,0,,1,reviewed,us,us
+2004-02-26T02:48:17.650Z,-9.067,111.077,70.7,4.3,mb,18,115.6,,0.81,us,usp000cnas,2014-11-07T01:21:29.207Z,"130 km SSW of Trenggalek, Indonesia",earthquake,,20.2,,5,reviewed,us,us
+2004-01-15T14:11:33.970Z,-9.231,110.545,65.7,4,mb,10,152.6,,1.73,us,usp000chy1,2014-11-07T01:21:04.770Z,"143 km S of Pundong, Indonesia",earthquake,,19,,2,reviewed,us,us
+2004-01-04T14:49:02.240Z,-10.823,113.176,10,4.3,mb,13,184.8,,1.12,us,usp000ch3u,2014-11-07T01:20:59.061Z,"281 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2003-11-21T13:17:58.580Z,-9.984,111.227,10,4.7,mb,27,126.9,,0.97,us,usp000cdk4,2014-11-07T01:20:32.245Z,"217 km SSW of Trenggalek, Indonesia",earthquake,,,,12,reviewed,us,us
+2003-11-20T12:24:32.630Z,-10.024,111.028,10,5.9,mwc,52,42,,1.22,us,usp000cdg7,2022-05-02T16:54:13.717Z,"227 km SSW of Trenggalek, Indonesia",earthquake,,,,,reviewed,us,hrv
+2003-11-17T16:08:48.440Z,-9.484,111.601,33,4.3,mb,19,191.5,,1.01,us,usp000cd5t,2014-11-07T01:20:30.581Z,"154 km SSW of Boyolangu, Indonesia",earthquake,,,,8,reviewed,us,us
+2003-07-07T16:46:11.660Z,-10.398,113.565,33,4.6,mb,15,199.5,,1.26,us,usp000c1ww,2014-11-07T01:19:09.368Z,"230 km SSW of Gambiran Satu, Indonesia",earthquake,,,,2,reviewed,us,us
+2003-05-08T04:36:55.680Z,-9.691,111.355,33,4.9,mb,11,203.6,,1.23,us,usp000bwty,2014-11-07T01:18:35.469Z,"182 km SSW of Trenggalek, Indonesia",earthquake,,,,1,reviewed,us,us
+2003-02-19T19:59:25.300Z,-9.707,112.802,67.8,4.7,mb,22,,,0.94,us,usp000br1k,2014-11-07T01:17:49.886Z,"165 km S of Dampit, Indonesia",earthquake,,22.9,,9,reviewed,us,us
+2002-12-29T17:03:36.110Z,-10.899,113.825,38.3,4.5,mb,22,,,0.77,us,usp000bmny,2014-11-07T01:17:26.682Z,"275 km SSW of Jimbaran, Indonesia",earthquake,,,,9,reviewed,us,us
+2002-12-26T11:25:40.960Z,-10.197,113.068,33,4.9,mb,32,,,1.32,us,usp000bmf9,2014-11-07T01:17:26.007Z,"214 km S of Kencong, Indonesia",earthquake,,,,18,reviewed,us,us
+2002-09-28T21:42:11.450Z,-9.187,111.614,33,4,mb,7,,,1.25,us,usp000bdc7,2014-11-07T01:16:35.536Z,"122 km SSW of Boyolangu, Indonesia",earthquake,,,,2,reviewed,us,us
+2002-08-19T02:37:12.170Z,-9.656,113.341,33,4.6,mb,9,,,1.25,us,usp000ba60,2014-11-07T01:16:17.560Z,"151 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2002-08-18T10:53:21.870Z,-10.322,113.438,33,4.9,mb,10,,,0.83,us,usp000ba4j,2014-11-07T01:16:17.444Z,"225 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2002-07-26T01:34:21.910Z,-9.285,112.667,74.1,4.3,mb,10,,,1.38,us,usp000b8sz,2014-11-07T01:16:06.815Z,"119 km S of Dampit, Indonesia",earthquake,,28.8,,2,reviewed,us,us
+2002-07-12T12:28:39.730Z,-9.078,113.175,98.3,4.6,mb,36,,,1.06,us,usp000b7zm,2014-11-07T01:16:02.852Z,"90 km SSW of Kencong, Indonesia",earthquake,,11.6,,10,reviewed,us,us
+2002-04-03T03:09:47.260Z,-10.212,113.38,33,4.9,mb,12,,,1.18,us,usp000b1mr,2014-11-07T01:15:20.287Z,"213 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2002-03-06T02:11:09.320Z,-9.205,112.364,33,5.2,ml,7,,,0.51,us,usp000azrt,2014-11-07T01:15:05.291Z,"116 km S of Sumberpucung, Indonesia",earthquake,,,,,reviewed,us,dja
+2001-12-08T22:56:14.030Z,-9.087,113.621,33,4.2,mb,17,,,0.99,us,usp000au9g,2014-11-07T01:14:27.242Z,"93 km SSE of Kencong, Indonesia",earthquake,,,,3,reviewed,us,us
+2001-12-06T12:59:35.080Z,-10.199,111.516,33,4.6,mb,23,,,0.95,us,usp000au3v,2014-11-07T01:14:26.543Z,"233 km S of Boyolangu, Indonesia",earthquake,,,,8,reviewed,us,us
+2001-09-06T10:55:44.560Z,-10.644,113.228,33,4.7,mb,27,,,0.68,us,usp000anr5,2014-11-07T01:13:45.150Z,"261 km S of Kencong, Indonesia",earthquake,,,,6,reviewed,us,us
+2001-06-19T23:40:40.850Z,-9.542,111.867,33,4.5,mb,10,,,0.95,us,usp000agy3,2014-11-07T01:13:05.242Z,"157 km S of Boyolangu, Indonesia",earthquake,,,,2,reviewed,us,us
+2001-05-13T04:06:18.930Z,-9.481,112.761,33,4.8,mb,19,,,1.05,us,usp000aevf,2014-11-07T01:12:47.498Z,"140 km S of Dampit, Indonesia",earthquake,,,,5,reviewed,us,us
+2001-03-29T18:02:15.890Z,-9.337,111.616,33,4.6,mb,17,,,1.2,us,usp000ac6n,2014-11-07T01:12:26.493Z,"138 km SSW of Boyolangu, Indonesia",earthquake,,,,5,reviewed,us,us
+2001-03-23T06:55:44.500Z,-10.49,113.9,33,5.2,mwc,121,,,1,us,usp000abwr,2016-11-09T22:08:23.523Z,"232 km SSW of Muncar, Indonesia",earthquake,,,,,reviewed,us,hrv
+2001-03-11T07:03:56.950Z,-9.379,111.852,33,4.2,mb,10,,,0.97,us,usp000ab7b,2014-11-07T01:12:19.965Z,"139 km S of Boyolangu, Indonesia",earthquake,,,,3,reviewed,us,us
+2001-02-13T12:25:36.230Z,-9.485,112.931,33,4.6,mb,17,,,1.28,us,usp000a9jt,2014-11-07T01:12:08.177Z,"141 km SSW of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2000-11-30T07:56:44.040Z,-10.226,113.076,33,4.9,mb,9,,,1.49,us,usp000a58k,2014-11-07T01:11:35.698Z,"217 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+2000-09-27T13:58:42.360Z,-9.066,113.162,33,4.8,mb,14,,,1.14,us,usp000a0ws,2014-11-07T01:11:07.910Z,"89 km SSW of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+2000-08-24T11:28:22.260Z,-9.518,111.792,51.2,4.8,mb,39,,,0.9,us,usp0009z3d,2014-11-07T01:10:54.702Z,"155 km S of Boyolangu, Indonesia",earthquake,,10.2,,13,reviewed,us,us
+2000-07-29T23:32:43.820Z,-9.224,112.016,66,4.3,mb,21,,,1.39,us,usp0009xe2,2014-11-07T01:10:42.248Z,"123 km S of Boyolangu, Indonesia",earthquake,,16,,5,reviewed,us,us
+2000-07-29T02:38:37.160Z,-9.084,111.895,84,4.6,mb,10,,,1.17,us,usp0009xcb,2014-11-07T01:10:41.462Z,"106 km S of Boyolangu, Indonesia",earthquake,,18.7,,1,reviewed,us,us
+2000-07-10T09:03:53.780Z,-9.897,113.713,33,4,mb,8,,,0.38,us,usp0009w51,2014-11-07T01:10:34.584Z,"172 km SSW of Gambiran Satu, Indonesia",earthquake,,,,4,reviewed,us,us
+2000-06-17T23:58:45.680Z,-9.089,110.666,33,4.2,mb,7,,,0.5,us,usp0009us5,2014-11-07T01:10:23.247Z,"130 km SSE of Pundong, Indonesia",earthquake,,,,2,reviewed,us,us
+2000-05-25T05:52:52.260Z,-9.738,113.891,70.1,4.3,mb,,,,0.68,us,usp0009tfa,2014-11-07T01:10:11.671Z,"151 km S of Gambiran Satu, Indonesia",earthquake,,12.3,,2,reviewed,us,us
+2000-05-14T12:58:35.760Z,-9.128,110.402,57.7,4.7,mb,,,,1.16,us,usp0009sxu,2014-11-07T01:10:08.029Z,"130 km S of Pundong, Indonesia",earthquake,,14.7,,7,reviewed,us,us
+2000-03-26T10:15:26.890Z,-9.465,112.9,33,4.5,mb,,,,1.31,us,usp0009q7q,2014-11-07T01:09:45.114Z,"139 km S of Dampit, Indonesia",earthquake,,,,10,reviewed,us,us
+2000-03-15T15:51:03.980Z,-9.418,112.786,47.4,4.9,mb,,,,0.95,us,usp0009prd,2014-11-07T01:09:42.341Z,"133 km S of Dampit, Indonesia",earthquake,,,,13,reviewed,us,us
+2000-02-13T19:12:36.290Z,-9.549,113.994,56.9,4.3,mb,,,,1.5,us,usp0009ne4,2014-11-07T01:09:30.734Z,"128 km S of Gambiran Satu, Indonesia",earthquake,,16.1,,5,reviewed,us,us
+2000-02-08T17:30:15.440Z,-9.589,112.9,55.7,4.5,mb,,,,1.23,us,usp0009n7d,2014-11-07T01:09:28.897Z,"153 km S of Dampit, Indonesia",earthquake,,8.4,,10,reviewed,us,us
+2000-01-16T09:09:34.500Z,-9.27,113.965,58.5,5.1,mwc,,,,1.2,us,usp0009m7c,2016-11-09T21:40:46.658Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,hrv
+2000-01-15T02:54:08.570Z,-9.611,111.812,33,4,mb,,,,1.46,us,usp0009m52,2014-11-07T01:09:19.646Z,"165 km S of Boyolangu, Indonesia",earthquake,,,,4,reviewed,us,us
+2000-01-15T02:11:58.580Z,-9.578,111.76,34.5,5,mb,,,,1.2,us,usp0009m50,2014-11-07T01:09:19.641Z,"162 km S of Boyolangu, Indonesia",earthquake,,11.4,,4,reviewed,us,us
+2000-01-09T03:01:01.700Z,-10.621,111.82,33,4.6,mb,,,,1.36,us,usp0009kxt,2014-11-07T01:09:18.673Z,"276 km S of Boyolangu, Indonesia",earthquake,,,,4,reviewed,us,us
+1999-12-05T09:08:51.400Z,-9.304,110.337,43.4,4.6,mb,,,,1.18,us,usp0009jg9,2014-11-07T01:09:06.593Z,"149 km S of Pundong, Indonesia",earthquake,,9.9,,14,reviewed,us,us
+1999-10-20T11:22:49.850Z,-9.581,111.526,33,4.9,mb,,,,1.25,us,usp0009ga7,2014-11-07T01:08:45.071Z,"166 km SSW of Boyolangu, Indonesia",earthquake,,,,12,reviewed,us,us
+1999-10-20T11:07:02.230Z,-9.874,111.507,33,4.7,mb,,,,1.42,us,usp0009ga5,2014-11-07T01:08:45.068Z,"198 km SSW of Boyolangu, Indonesia",earthquake,,,,1,reviewed,us,us
+1999-10-20T10:47:56.630Z,-9.62,111.438,33,4.6,mb,,,,1.12,us,usp0009ga3,2014-11-07T01:08:45.058Z,"173 km S of Trenggalek, Indonesia",earthquake,,,,5,reviewed,us,us
+1999-10-04T14:16:10.880Z,-10.544,113.075,33,4.3,mb,,,,1.42,us,usp0009fer,2014-11-07T01:08:39.824Z,"252 km S of Kencong, Indonesia",earthquake,,,,5,reviewed,us,us
+1999-08-25T04:55:55.240Z,-10.771,113.232,33,4.2,mb,,,,1.13,us,usp0009dkt,2014-11-07T01:08:19.847Z,"275 km S of Kencong, Indonesia",earthquake,,,,4,reviewed,us,us
+1999-08-18T21:15:43.680Z,-10.757,113.36,33,4.7,mb,,,,1.42,us,usp0009d9y,2014-11-07T01:08:17.457Z,"273 km S of Kencong, Indonesia",earthquake,,,,14,reviewed,us,us
+1999-07-15T21:47:19.690Z,-10.611,113.438,58.7,4.2,mb,,,,1.15,us,usp0009bp2,2014-11-07T01:08:06.194Z,"257 km SSW of Gambiran Satu, Indonesia",earthquake,,18.4,,6,reviewed,us,us
+1999-07-01T12:23:04.190Z,-9.084,111.264,33,4.2,mb,,,,1.06,us,usp0009avp,2014-11-07T01:08:00.822Z,"121 km SSW of Trenggalek, Indonesia",earthquake,,,,5,reviewed,us,us
+1999-06-24T13:27:03.210Z,-10.536,113.253,33,4.7,mb,,,,1.17,us,usp0009aes,2014-11-07T01:07:56.577Z,"249 km S of Kencong, Indonesia",earthquake,,,,10,reviewed,us,us
+1999-05-27T06:08:06.740Z,-9.781,112.229,33,4.5,mb,,,,1.06,us,usp00098un,2014-11-07T01:07:43.708Z,"181 km S of Sumberpucung, Indonesia",earthquake,,,,7,reviewed,us,us
+1999-04-10T06:12:11.140Z,-9.225,112.138,33,4,mb,,,,1.32,us,usp0009627,2014-11-07T01:07:26.751Z,"123 km SSW of Sumberpucung, Indonesia",earthquake,,,,7,reviewed,us,us
+1999-04-03T00:05:54.050Z,-9.655,112.925,33,4.3,mb,,,,0.87,us,usp00095ph,2014-11-07T01:07:21.907Z,"159 km SSW of Kencong, Indonesia",earthquake,,,,9,reviewed,us,us
+1999-03-27T08:03:45.090Z,-9.682,112.79,33,5.6,mwb,,,,1.08,us,usp000958w,2022-04-29T18:05:10.914Z,"162 km S of Dampit, Indonesia",earthquake,,,,,reviewed,us,us
+1999-03-21T17:38:20.600Z,-9.444,113.767,33,4.3,mb,,,,1.34,us,usp00094x1,2014-11-07T01:07:15.475Z,"123 km SSW of Gambiran Satu, Indonesia",earthquake,,,,8,reviewed,us,us
+1999-01-19T16:28:24.290Z,-10.903,113.248,33,4,mb,,,,1.17,us,usp00091bv,2014-11-07T01:06:49.931Z,"290 km S of Kencong, Indonesia",earthquake,,,,6,reviewed,us,us
+1998-10-26T02:30:22.430Z,-10.685,113.208,33,4.4,mb,,,,1.17,us,usp0008x29,2014-11-07T01:06:17.524Z,"266 km S of Kencong, Indonesia",earthquake,,,,8,reviewed,us,us
+1998-10-25T04:24:16.450Z,-9.118,111.468,68.2,4.7,mb,,,,1.19,us,usp0008x0j,2014-11-07T01:06:17.308Z,"118 km SSW of Trenggalek, Indonesia",earthquake,,8.1,,10,reviewed,us,us
+1998-09-04T01:17:10.980Z,-9.223,113.975,74.2,4.8,mb,,,,1.18,us,usp0008ucy,2014-11-07T01:06:00.227Z,"93 km SSW of Gambiran Satu, Indonesia",earthquake,,5.8,,15,reviewed,us,us
+1998-09-01T15:12:04.140Z,-9.313,110.735,33,4.1,mb,,,,1.09,us,usp0008u7w,2014-11-07T01:05:58.020Z,"156 km SSE of Pundong, Indonesia",earthquake,,,,8,reviewed,us,us
+1998-06-23T02:52:34.830Z,-9.323,113.191,33,4.2,mb,,,,1.42,us,usp0008qb0,2014-11-07T01:05:26.409Z,"116 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+1998-05-18T19:24:21.310Z,-9.294,113.102,82.7,4.9,mb,,,,0.79,us,usp0008nbr,2014-11-07T01:05:14.240Z,"115 km SSW of Kencong, Indonesia",earthquake,,7,,4,reviewed,us,us
+1998-04-27T13:53:18.450Z,-9.5,112.735,33,4.3,mb,,,,1.21,us,usp0008m1g,2014-11-07T01:05:04.872Z,"142 km S of Dampit, Indonesia",earthquake,,,,7,reviewed,us,us
+1998-01-27T22:32:31.020Z,-9.491,113.684,63.8,4.2,mb,,,,1,us,usp0008f2p,2014-11-07T01:04:23.485Z,"131 km SSW of Gambiran Satu, Indonesia",earthquake,,7.9,,9,reviewed,us,us
+1997-11-29T12:42:55.310Z,-9.553,113.584,33,4.2,mb,,,,1.23,us,usp0008bh0,2014-11-07T01:03:58.494Z,"142 km SSW of Gambiran Satu, Indonesia",earthquake,,,,1,reviewed,us,us
+1997-11-25T05:00:01.730Z,-9.306,110.073,33,4.1,mb,,,,1.3,us,usp0008b9w,2014-11-07T01:03:57.205Z,"151 km S of Bambanglipuro, Indonesia",earthquake,,,,3,reviewed,us,us
+1997-11-11T19:32:17.940Z,-9.196,111.783,33,4.3,mb,,,,1.43,us,usp0008aga,2014-11-07T01:03:53.522Z,"119 km S of Boyolangu, Indonesia",earthquake,,,,1,reviewed,us,us
+1997-10-25T18:33:36.400Z,-10.582,112.833,62.7,4,mb,,,,1.24,us,usp00089kk,2014-11-07T01:03:45.546Z,"260 km SSW of Kencong, Indonesia",earthquake,,13.1,,6,reviewed,us,us
+1997-10-12T23:27:46.620Z,-9.439,112.871,60.1,4.6,mb,,,,1.18,us,usp00088xz,2014-11-07T01:03:41.418Z,"136 km S of Dampit, Indonesia",earthquake,,10,,9,reviewed,us,us
+1997-10-12T23:07:09.350Z,-9.634,112.816,33,4.4,mb,,,,1.26,us,usp00088xy,2014-11-07T01:03:41.415Z,"157 km S of Dampit, Indonesia",earthquake,,,,9,reviewed,us,us
+1997-09-24T16:56:14.770Z,-9.485,110.717,33,4.1,mb,,,,1.17,us,usp00087yw,2014-11-07T01:03:31.004Z,"174 km SSE of Pundong, Indonesia",earthquake,,,,1,reviewed,us,us
+1997-08-14T12:46:27.270Z,-10.706,112.596,33,4.2,mb,,,,1.29,us,usp0008679,2014-11-07T01:03:18.697Z,"276 km S of Dampit, Indonesia",earthquake,,,,9,reviewed,us,us
+1997-08-13T22:41:48.160Z,-9.29,110.23,33,4.2,mb,,,,1.17,us,usp000866j,2014-11-07T01:03:18.631Z,"148 km S of Bambanglipuro, Indonesia",earthquake,,,,3,reviewed,us,us
+1997-07-27T21:49:45.470Z,-10.685,113.242,41.2,4.2,mb,,,,1.32,us,usp00085ev,2014-11-07T01:03:11.497Z,"265 km S of Kencong, Indonesia",earthquake,,11.1,,9,reviewed,us,us
+1997-07-13T14:34:06.360Z,-9.017,110.652,33,4.6,mb,,,,1.16,us,usp00084tf,2014-11-07T01:03:08.351Z,"122 km SSE of Pundong, Indonesia",earthquake,,,,10,reviewed,us,us
+1997-07-13T01:26:29.060Z,-9.223,113.325,33,4.3,mb,,,,1.33,us,usp00084sk,2014-11-07T01:03:08.223Z,"104 km S of Kencong, Indonesia",earthquake,,,,6,reviewed,us,us
+1997-07-12T22:51:47.400Z,-10.868,110.976,33,4.1,mb,,,,0.9,us,usp00084s8,2014-11-07T01:03:08.194Z,"south of Java, Indonesia",earthquake,,,,1,reviewed,us,us
+1997-07-12T22:49:17.130Z,-9.045,110.527,33,5.3,mwc,,,,0.94,us,usp00084s7,2016-11-09T22:58:21.007Z,"122 km S of Pundong, Indonesia",earthquake,,,,,reviewed,us,hrv
+1997-07-12T22:09:28.380Z,-9.142,110.489,33,4.1,mb,,,,1.24,us,usp00084s4,2014-11-07T01:03:08.176Z,"132 km S of Pundong, Indonesia",earthquake,,,,2,reviewed,us,us
+1997-07-12T22:01:32.180Z,-9.052,110.668,33,4.4,mb,,,,0.8,us,usp00084s1,2014-11-07T01:03:08.167Z,"126 km SSE of Pundong, Indonesia",earthquake,,,,15,reviewed,us,us
+1997-07-10T13:10:48.190Z,-10.747,113.716,33,5.3,mwc,,,,1.27,us,usp00084nf,2016-11-09T22:57:29.873Z,"264 km S of Gambiran Satu, Indonesia",earthquake,,,,,reviewed,us,hrv
+1997-04-14T23:16:57.930Z,-9.705,110.124,33,4,mb,,,,1.42,us,usp00080ka,2014-11-07T01:02:34.557Z,"194 km S of Bambanglipuro, Indonesia",earthquake,,,,3,reviewed,us,us
+1997-04-02T09:06:05.680Z,-9.588,113.993,33,4.1,mb,,,,1.21,us,usp0007zuy,2014-11-07T01:02:28.239Z,"133 km SSW of Muncar, Indonesia",earthquake,,,,2,reviewed,us,us
+1997-03-19T13:20:31.640Z,-10.685,112.734,33,4.7,mb,,,,1.21,us,usp0007z32,2014-11-07T01:02:21.085Z,"273 km S of Dampit, Indonesia",earthquake,,,,13,reviewed,us,us
+1997-02-24T00:45:01.130Z,-9.977,113.498,33,4.1,mb,,,,1,us,usp0007xqf,2014-11-07T01:02:11.079Z,"187 km S of Kencong, Indonesia",earthquake,,,,1,reviewed,us,us
+1997-01-17T12:05:01.630Z,-10.635,112.026,33,4,mb,,,,0.41,us,usp0007vz4,2014-11-07T01:01:58.300Z,"278 km S of Sumberpucung, Indonesia",earthquake,,,,1,reviewed,us,us
+1996-12-21T05:14:44.550Z,-10.541,113.526,33,4.5,mb,,,,0.84,us,usp0007uru,2014-11-07T01:01:48.513Z,"247 km SSW of Gambiran Satu, Indonesia",earthquake,,,,2,reviewed,us,us
+1996-12-09T00:46:24.580Z,-10.583,112.178,33,4.2,mb,,,,1.06,us,usp0007u5a,2014-11-07T01:01:45.735Z,"269 km SSW of Dampit, Indonesia",earthquake,,,,6,reviewed,us,us
+1996-12-08T15:56:09.950Z,-10.726,112.008,33,4.2,mb,,,,1.14,us,usp0007u4d,2014-11-07T01:01:45.621Z,"288 km S of Boyolangu, Indonesia",earthquake,,,,1,reviewed,us,us
+1996-12-08T12:16:08.400Z,-10.685,112.138,33,4.1,mb,,,,0.57,us,usp0007u49,2014-11-07T01:01:45.611Z,"281 km SSW of Dampit, Indonesia",earthquake,,,,6,reviewed,us,us
+1996-12-06T06:53:22.430Z,-10.766,112.093,33,4.1,mb,,,,1.6,us,usp0007u1a,2014-11-07T01:01:44.955Z,"291 km S of Sumberpucung, Indonesia",earthquake,,,,2,reviewed,us,us
+1996-12-03T14:29:51.460Z,-10.666,112.158,33,4.8,ms,,,,1.33,us,usp0007tx8,2014-11-07T01:01:43.740Z,"279 km SSW of Dampit, Indonesia",earthquake,,,,1,reviewed,us,us
+1996-12-03T04:46:27.150Z,-10.662,112.14,33,4.5,mb,,,,1.21,us,usp0007twk,2014-11-07T01:01:43.554Z,"279 km SSW of Dampit, Indonesia",earthquake,,,,13,reviewed,us,us
+1996-12-02T15:39:35.500Z,-10.754,112.098,33,4.3,mb,,,,1.2,us,usp0007tvr,2014-11-07T01:01:43.162Z,"290 km SSW of Dampit, Indonesia",earthquake,,,,10,reviewed,us,us
+1996-12-02T13:27:45.870Z,-10.712,112.18,33,4.5,mb,,,,1.15,us,usp0007tvj,2014-11-07T01:01:43.126Z,"283 km SSW of Dampit, Indonesia",earthquake,,,,13,reviewed,us,us
+1996-11-17T13:21:52.260Z,-9.831,112.832,33,4,mb,,,,1.54,us,usp0007t56,2014-11-07T01:01:36.178Z,"179 km S of Dampit, Indonesia",earthquake,,,,5,reviewed,us,us
+1996-10-14T22:47:43.320Z,-10.706,113.167,33,4.4,mb,,,,1.41,us,usp0007rdp,2014-11-07T01:01:22.684Z,"268 km S of Kencong, Indonesia",earthquake,,,,6,reviewed,us,us
+1996-10-02T20:33:07.810Z,-10.464,113.209,33,4.2,mb,,,,1.09,us,usp0007qvc,2014-11-07T01:01:18.843Z,"241 km S of Kencong, Indonesia",earthquake,,,,2,reviewed,us,us
+1996-10-02T19:47:48.090Z,-9.779,113.713,33,4.6,mb,,,,1.05,us,usp0007qva,2014-11-07T01:01:18.828Z,"160 km SSW of Gambiran Satu, Indonesia",earthquake,,,,8,reviewed,us,us
+1996-09-24T11:52:46.370Z,-9.341,113.487,33,4.6,mb,,,,1.28,us,usp0007qdp,2014-11-07T01:01:13.031Z,"117 km S of Kencong, Indonesia",earthquake,,,,14,reviewed,us,us
+1996-09-22T22:10:39.900Z,-9.471,112.806,45.4,4,mb,,,,0.68,us,usp0007qbh,2014-11-07T01:01:12.795Z,"139 km S of Dampit, Indonesia",earthquake,,19.4,,2,reviewed,us,us
+1996-08-28T20:04:32.430Z,-9.404,112.987,33,4.2,mb,,,,1.23,us,usp0007p61,2014-11-07T01:01:02.159Z,"130 km SSW of Kencong, Indonesia",earthquake,,,,9,reviewed,us,us
+1996-06-29T10:10:53.240Z,-10.851,113.303,33,4.2,mb,,,,1.2,us,usp0007ke8,2014-11-07T01:00:41.325Z,"284 km S of Kencong, Indonesia",earthquake,,,,15,reviewed,us,us
+1996-06-27T06:37:00.590Z,-10.953,113.405,33,4.5,mb,,,,1,us,usp0007kbr,2014-11-07T01:00:40.926Z,"294 km SSW of Gambiran Satu, Indonesia",earthquake,,,,12,reviewed,us,us
+1996-06-12T00:20:14.070Z,-10.875,113.396,33,4.1,mb,,,,1.7,us,usp0007jmj,2014-11-07T01:00:37.235Z,"south of Java, Indonesia",earthquake,,,,11,reviewed,us,us
+1996-05-23T20:22:21.270Z,-9.247,113.479,33,4.7,mb,,,,1.1,us,usp0007hqq,2014-11-07T01:00:28.933Z,"107 km S of Kencong, Indonesia",earthquake,,,,24,reviewed,us,us
+1996-03-24T02:41:42.790Z,-9.513,112.967,67,4,mb,,,,1.3,us,usp0007f6w,2014-11-07T01:00:08.203Z,"142 km SSW of Kencong, Indonesia",earthquake,,13.2,,9,reviewed,us,us
+1996-03-23T07:32:03.930Z,-9.393,113.071,81.1,5.2,mwc,,,,1.2,us,usp0007f5z,2016-11-09T22:08:52.099Z,"126 km SSW of Kencong, Indonesia",earthquake,,10.5,,,reviewed,us,hrv
+1996-01-17T13:29:22.490Z,-9.381,113.976,67.2,4.2,mb,,,,0.8,us,usp0007b8k,2014-11-07T00:59:41.331Z,"110 km S of Gambiran Satu, Indonesia",earthquake,,,,10,reviewed,us,us
+1996-01-12T09:20:25.960Z,-9.529,113.827,100,4.6,mb,,,,0.8,us,usp0007axc,2014-11-07T00:59:39.487Z,"130 km SSW of Gambiran Satu, Indonesia",earthquake,,,,16,reviewed,us,us
+1995-12-06T01:58:44.630Z,-9.663,113.925,33,4.6,mb,,,,0.9,us,usp00078cx,2014-11-07T00:59:23.042Z,"142 km S of Gambiran Satu, Indonesia",earthquake,,,,11,reviewed,us,us
+1995-11-24T02:37:26.590Z,-10.703,112.99,33,4.1,mb,,,,1.5,us,usp00077cn,2014-11-07T00:59:13.279Z,"270 km S of Kencong, Indonesia",earthquake,,,,8,reviewed,us,us
+1995-09-24T01:14:26.580Z,-9.106,111.086,21.5,4.7,mb,,,,1.1,us,usp00073vv,2014-11-07T00:58:46.573Z,"132 km SSW of Trenggalek, Indonesia",earthquake,,,,24,reviewed,us,us
+1995-09-04T23:55:29.240Z,-9.59,113.997,33,4,mb,,,,0.6,us,usp00072x9,2014-11-07T00:58:41.139Z,"133 km SSW of Muncar, Indonesia",earthquake,,,,6,reviewed,us,us
+1995-08-09T07:07:00.050Z,-9.312,113.022,80.3,4.2,mb,,,,1.3,us,usp00071mx,2014-11-07T00:58:30.546Z,"119 km SSW of Kencong, Indonesia",earthquake,,10.5,,7,reviewed,us,us
+1995-06-16T17:45:21.410Z,-10.64,113.036,33,4.1,mb,,,,1.1,us,usp0006z74,2014-11-07T00:58:09.410Z,"263 km S of Kencong, Indonesia",earthquake,,,,9,reviewed,us,us
+1995-06-08T17:16:10.290Z,-9.474,112.844,58.7,4.5,mb,,,,0.7,us,usp0006yt1,2014-11-07T00:58:07.083Z,"140 km S of Dampit, Indonesia",earthquake,,15.2,,12,reviewed,us,us
+1995-05-03T20:46:55.520Z,-9.815,113.783,33,4.3,mb,,,,1,us,usp0006wt3,2014-11-07T00:57:51.837Z,"162 km SSW of Gambiran Satu, Indonesia",earthquake,,,,11,reviewed,us,us
+1995-02-19T00:32:20.250Z,-9.85,113.408,84.1,4.2,mb,,,,1.2,us,usp0006t5u,2014-11-07T00:57:20.899Z,"173 km S of Kencong, Indonesia",earthquake,,14.6,,3,reviewed,us,us
+1995-02-16T16:27:25.400Z,-10.056,113.858,33,4,mb,,,,0.4,us,usp0006t2f,2014-11-07T00:57:20.494Z,"186 km S of Gambiran Satu, Indonesia",earthquake,,,,5,reviewed,us,us
+1995-01-07T15:02:59.810Z,-9.025,110.755,114.8,4.7,mb,,,,0.8,us,usp0006r02,2014-11-07T00:57:06.681Z,"126 km SSE of Pundong, Indonesia",earthquake,,21.5,,12,reviewed,us,us
+1995-01-01T02:02:25.490Z,-10.927,113.011,18.9,4.5,mb,,,,1.2,us,usp0006qpk,2014-11-07T00:57:02.519Z,"294 km S of Kencong, Indonesia",earthquake,,8.5,,4,reviewed,us,us
