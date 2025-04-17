@@ -1,0 +1,25 @@
+gempa memiliki data yang karakteristik sehingga pada permasalahan prediksi kejadian gempa, gempa itu sendiri bukan sebatas konteks kasus melainkan memang suatu hal yang karakteristik dan harus diteliti serta dikembangkan cara kalkulasi fitur dan model yang sesuai, karakteristik karena merupakan data sekuensial dengan pola yang berbeda-beda di setiap wilayah, dipengaruhi oleh banyak sekali factor
+
+apa contoh hal yang karakteristik dan contoh yang tidak karakteristik?
+
+Gempa bumi bukanlah hanya sebatas konteks kasus untuk mencoba model prediksi, tetapi gempa bumi itu sendiri merupakan permasalahan yang karakteristik atau memiliki sifat yang esensial. Penelitian ini bukan sekedar menerapkan model deep learning terhadap data apapun, melainkan menekankan bahwa gempa bumi itu sendiri merupakan masalah yang ditangani dengan pendekatan khusus.  
+
+
+ALUR PENDAHULUAN:
+
+Urgensi Jawa Bali yang rawan gempa
+
+Gempa merupakan kasus karakteristik
+
+Penelitian-penelitian sebelumnya yang telah dilakukan untuk mengembangkan model prediksi gempa, dan bagaimana model tersebut belum tentu memiliki performa yang baik jika diterapkan di daerah lain seperti Indonesia dikarenakan karakteristik gempa bumi berbeda-beda di setiap tempat
+
+Pendefinisian gempa pada penelitian-penelitian lain
+
+Pentingnya memprediksi gempa dengan kedalaman dangkal karena dampaknya yang lebih terasa di permukaan
+
+Pentingnya melakukan prapemrosesan data untuk menentukan fitur-fitur yang digunakan untuk prediksi
+
+Pentingnya melakukan tuning untuk menemukan time step terbaik pada metode sliding window untuk membentuk vector data
+
+Pentingnya melakukan tuning untuk menemukan jumlah unit LSTM yang terbaik serta arsitektur model yang terbaik
+
